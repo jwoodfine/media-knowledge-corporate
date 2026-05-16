@@ -45,6 +45,7 @@ Without a redemption queue, no coordinated exit pressure can destabilize the por
 
 - [[topic-direct-hold-framework]] — the ownership structure that makes redemption mechanisms unnecessary
 - [[topic-equity-transfer-model]] — how investors exit their positions in practice
+- [[topic-interest-coverage-ratio]] — the debt-service discipline that removes the need for cash reserves
 
 ---
 

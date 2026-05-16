@@ -41,6 +41,7 @@ Un inversor no puede ejercer derechos de gobierno sobre un activo cuyo libro con
 
 - [[topic-direct-hold-framework]] — la estructura de propiedad que el mandato fiduciario protege
 - [[topic-equity-transfer-model]] — cómo la integridad del libro contable sustenta la libre transferencia de capital
+- [[topic-interest-coverage-ratio]] — la disciplina financiera aplicada en paralelo al mandato de datos
 
 ---
 

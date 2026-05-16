@@ -43,6 +43,7 @@ Sin cola de reembolso, ninguna presión de salida coordinada puede desestabiliza
 
 - [[topic-direct-hold-framework]] — la estructura de propiedad que hace innecesarios los mecanismos de reembolso
 - [[topic-equity-transfer-model]] — cómo salen en la práctica los inversores de sus posiciones
+- [[topic-interest-coverage-ratio]] — la disciplina de servicio de deuda que elimina la necesidad de reservas de efectivo
 
 ---
 

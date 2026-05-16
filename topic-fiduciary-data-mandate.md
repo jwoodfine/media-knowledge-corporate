@@ -41,6 +41,7 @@ An investor cannot exercise governance rights over an asset whose legal ledger t
 
 - [[topic-direct-hold-framework]] — the ownership structure that the fiduciary mandate protects
 - [[topic-equity-transfer-model]] — how ledger integrity supports free equity transfer
+- [[topic-interest-coverage-ratio]] — the financial discipline applied alongside the data mandate
 
 ---
 

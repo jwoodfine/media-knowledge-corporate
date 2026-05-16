@@ -39,6 +39,7 @@ Una cartera que mantiene un ICR de 1,2x de forma indefinida evita las ventas for
 
 - [[topic-direct-hold-framework]] — la estructura de propiedad que la restricción del ICR protege
 - [[topic-redemption-elimination]] — por qué no existe una reserva de efectivo mancomunada junto al umbral del ICR
+- [[topic-fiduciary-data-mandate]] — la disciplina paralela de soberanía de datos aplicada a cada activo de Tenencia Directa
 
 ---
 

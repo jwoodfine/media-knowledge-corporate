@@ -39,6 +39,7 @@ A portfolio that maintains 1.2x ICR indefinitely avoids forced asset sales trigg
 
 - [[topic-direct-hold-framework]] — the ownership structure that the ICR constraint protects
 - [[topic-redemption-elimination]] — why no cash reserve pool exists alongside the ICR floor
+- [[topic-fiduciary-data-mandate]] — the parallel data-sovereignty discipline applied to every Direct-Hold asset
 
 ---
 
