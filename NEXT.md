@@ -5,15 +5,45 @@
 >
 > Read at session start. Update at session end.
 
-Last updated: 2026-05-13.
+Last updated: 2026-05-17.
 
 ---
 
 ## Currently open
 
-### Stage 6 promotion pending
+### ⚠ Divergence — cluster clone vs canonical (Master must resolve before Stage 6)
 
-6 commits ahead of `origin/main` as of 2026-05-13. Master action
+**2026-05-17 audit finding.** The canonical at
+`/srv/foundry/customer/content-wiki-corporate` has an independent commit
+(`b0c78f6` — "strip topic- prefix; assign governance/reference categories")
+that the cluster clone does not have. The canonical uses bare filenames
+(`direct-hold-framework.md`); the cluster clone uses `topic-*` prefix
+filenames (`topic-direct-hold-framework.md`). These conventions are
+incompatible. A plain `git push origin main` from the cluster clone
+would conflict.
+
+**Resolution options for Master:**
+1. Rebase the cluster clone onto the canonical's commit, then adapt
+   the cluster's YAML slug values to use bare slugs.
+2. Or: merge the canonical commit into the cluster clone, resolve
+   filename convention disagreement, and push to GitHub canonical.
+
+Until resolved: do NOT run `promote.sh` for this repo.
+
+**Other canonical gaps** (things in cluster clone not yet in canonical):
+- `leapfrog-facts.yaml` — cluster has it (with `topic-` slugs); canonical has none → DYK panel doesn't render
+- `about.md`, `contact.md`, `disclaimers.md` — cluster added these; canonical has none → footer links 404
+- `index.es.md` — cluster added; canonical has none → "Leer en Español →" link 404
+- `short_description` in all 5 article frontmatter fields
+
+### Stage 6 promotion pending (8 commits on cluster)
+
+8 commits ahead of `origin/main` as of 2026-05-17. After canonical
+divergence is resolved, Master runs Stage 6.
+
+Commits ready (most recent first):
+- `cad20d0` — fix featured/DYK slugs, category, short_description, wikilinks; add index.es, about, contact, disclaimers
+- Previous 7 commits as listed in 2026-05-13 entry below. Master action
 required — run `~/Foundry/bin/promote.sh` from
 `clones/project-knowledge/content-wiki-corporate/`. After promotion
 rebuild binary and restart `local-knowledge-corporate.service` (port 9095).
