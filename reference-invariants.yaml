@@ -1,0 +1,14 @@
+# reference-invariants.yaml — "Holding structure" home-page panel.
+# Engine reads on each request; absent → suppress the panel.
+# Three plain-English structural invariants of the Direct-Hold model.
+# Each item must be falsifiable and link to a published slug.
+# BCSC posture: present tense for current structural facts.
+
+heading: "Holding structure"
+items:
+  - text: "A vacancy at one asset cannot propagate to the investor's equity in a different asset. Isolation is structural, not contractual."
+    link_slug: direct-hold-framework
+  - text: "No redemption queue exists. An investor seeking liquidity locates a willing counterparty independently of the corporate entity."
+    link_slug: redemption-elimination
+  - text: "At 1.2x interest coverage, operating income structurally exceeds debt service — the margin that prevents foreclosure cascade."
+    link_slug: interest-coverage-ratio
