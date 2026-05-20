@@ -1,0 +1,30 @@
+# leapfrog-facts.es.yaml — Panel "¿Sabías que?" para corporate.woodfinegroup.com
+#
+# El motor lee este archivo en cada solicitud; si está ausente, suprime el panel.
+# El operador rota los hechos mensualmente; los más recientes van al inicio.
+# Cada hecho debe citar un slug publicado y contener una afirmación
+# independientemente verificable.
+# Lector: comunidad financiera institucional. Cada hecho debe llevar al
+# lector de "nunca había oído hablar de estas estructuras" a "un momento,
+# esto no es como funciona habitualmente el sector inmobiliario comercial
+# en fondos mancomunados".
+#
+# Creado: 2026-05-20 por project-editorial@claude-code
+# Adaptación estratégica de leapfrog-facts.yaml para audiencias de
+# América Latina y España.
+
+facts:
+  - text: "Un evento financiero que afecte a un activo —vacancia, litigio, refinanciación— no puede propagarse al capital del inversor en un activo diferente."
+    link_slug: topic-direct-hold-framework
+
+  - text: "El capital a largo plazo se acumula sin la carga estructural de una reserva de caja que genera menor rendimiento que los activos subyacentes."
+    link_slug: topic-redemption-elimination
+
+  - text: "Con una cobertura de intereses de 1,2x, la entidad corporativa acepta un margen más ajustado a cambio de mayor capacidad de apalancamiento: maximiza la base de activos desplegables mientras mantiene la certeza matemática de que los ingresos operativos cubren el servicio de la deuda."
+    link_slug: topic-interest-coverage-ratio
+
+  - text: "Un inversor que busca liquidez localiza una contraparte dispuesta a través de sus propias relaciones comerciales o canales de intermediación que operan con independencia de la entidad corporativa."
+    link_slug: topic-equity-transfer-model
+
+  - text: "La entidad corporativa conserva las claves privadas, el hardware físico y el control operativo del sistema de registro: una entidad corporativa que posee un inmueble pero no puede acceder al registro que acredita su propiedad queda estructuralmente desposeída."
+    link_slug: topic-fiduciary-data-mandate
