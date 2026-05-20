@@ -5,7 +5,7 @@ slug: about
 category: governance
 short_description: "Purpose, scope, and editorial standards of the Woodfine Corporate reference wiki."
 status: active
-last_edited: 2026-05-17
+last_edited: 2026-05-20
 editor: pointsav-engineering
 ---
 
@@ -24,10 +24,15 @@ satisfies the continuous-disclosure posture required under NI 51-102 and OSC SN 
 
 This wiki covers:
 
-- Direct-Hold framework structures and legal architecture
-- Financial metrics and debt-covenant parameters used across Woodfine assets
-- Fiduciary and data-custody mandates
-- Equity transfer and liquidity mechanics
+- Legal architecture and direct-hold equity structures
+- Financial metrics and debt-covenant parameters applied per asset
+- Fiduciary and data-custody mandates governing the property ledger
+- Equity transfer mechanics and liquidity structure
+- Corporate structure and the vendor-operator separation model
+- Investment thesis and asset evaluation methodology
+- Regulatory posture and continuous-disclosure obligations under NI 51-102
+- Technology services, data governance, and property ledger infrastructure
+- Investor access, position reporting, and the absence of a secondary market
 
 Operational runbooks and internal processes are maintained in a separate guide system
 and are not part of this public-facing reference.

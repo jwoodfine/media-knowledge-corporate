@@ -5,17 +5,27 @@
 # Reader: institutional financial community — Goldman Sachs banker, OSC analyst,
 # NI 51-102 reviewer, IFRS auditor, REIT comparables desk. Bloomberg/FT register.
 #
-# Five-week rotation pool — rank-ordered by institutional banker relevance:
+# Fifteen-week rotation pool — rank-ordered by institutional relevance:
 #
-#   1. interest-coverage-ratio    — capital structure & debt covenant; 1.2x ICR floor
-#   2. direct-hold-framework      — legal isolation & manager-agency-cost moat
-#   3. redemption-elimination     — no cash-reserve drag, no run mechanics
-#   4. fiduciary-data-mandate     — ledger custody & compliance posture
-#   5. equity-transfer-model      — peer-to-peer transfer mechanics
+#  1. topic-interest-coverage-ratio       — capital structure; 1.2x ICR floor
+#  2. topic-direct-hold-framework         — legal isolation; manager-agency-cost moat
+#  3. topic-redemption-elimination        — no cash-reserve drag; no run mechanics
+#  4. topic-co-location-investment-thesis — anchor convergence as objective investment signal
+#  5. topic-corporate-structure           — three-entity hierarchy; vendor/operator separation
+#  6. topic-asset-evaluation              — tier score as binary acquisition entry criterion
+#  7. topic-continuous-disclosure         — NI 51-102 / OSC SN 51-721 obligations
+#  8. topic-fiduciary-data-mandate        — ledger custody; compliance posture
+#  9. topic-equity-transfer-model         — peer-to-peer transfer; no corporate intermediation
+# 10. topic-regulatory-posture            — BCSC framework; forward-looking statement discipline
+# 11. topic-vendor-customer-model         — structural separation of tech vendor from operator
+# 12. topic-property-ledger-technology    — cryptographic record; F12 commit; sovereign control
+# 13. topic-investor-access               — position data; asset-level reports; no secondary market
+# 14. topic-data-governance               — WMC as legal custodian; PIPEDA; data portability
+# 15. topic-technology-services           — services agreement scope; failure-mode isolation
 #
 # Operator advances the pin weekly by editing the slug line below.
 # Update `since:` to the rotation date and `note:` to the rotation rationale.
 
-slug: topic-redemption-elimination
-since: 2026-05-17
-note: rotation 2 — the Direct-Hold structure is structurally immune to the coordination failure that makes redemption gates necessary — because there is no queue to join
+slug: topic-interest-coverage-ratio
+since: 2026-05-20
+note: rotation 1 — 15-week pool; capital structure cornerstone; the 1.2x ICR floor that protects long-term equity

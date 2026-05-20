@@ -14,7 +14,7 @@
 # banker from "I've never heard of these structures" to "wait, that's not
 # how it normally works in pooled commercial real estate."
 #
-# Updated: 2026-05-09 by project-editorial Task — initial publication
+# Updated: 2026-05-20 by project-knowledge cluster — 9-fact corpus (4 added from C8–C10 topics)
 
 facts:
   - text: "A financial event affecting one asset — vacancy, litigation, refinancing — cannot propagate to the investor's equity in a different asset."
@@ -31,3 +31,15 @@ facts:
 
   - text: "The corporate entity holds the private keys, the physical hardware, and operational control of the ledger software stack — a corporate entity that owns a building but cannot access the ledger proving it owns the building is functionally dispossessed."
     link_slug: topic-fiduciary-data-mandate
+
+  - text: "A target site must achieve a minimum tier classification under the co-location ranking matrix before capital evaluation proceeds — the tier score is a binary entry filter that removes subjective judgment from the initial screening stage."
+    link_slug: topic-asset-evaluation
+
+  - text: "Tier scores are reproducible by independent GIS analysis using publicly available retailer location data and civic facility coordinates — an independent analyst applying the same matrix to the same data should reach the same classification."
+    link_slug: topic-asset-evaluation
+
+  - text: "Woodfine Capital Projects Inc. holds two wholly-owned subsidiaries with distinct mandates: PointSav Digital Systems develops and maintains the technology platform; Woodfine Management Corp. manages the real estate and investor relations."
+    link_slug: topic-corporate-structure
+
+  - text: "A technology failure at PointSav does not affect Woodfine Management Corp.'s legal title to its assets. A financial event at WMC does not affect PointSav's platform operations — the services agreement is designed so that neither party's difficulties automatically impair the other's core function."
+    link_slug: topic-technology-services
