@@ -9,19 +9,17 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-22
+last_edited: 2026-05-25
 editor: pointsav-engineering
 paired_with: topic-direct-hold-framework.md
 cites: []
 ---
 
-Un inversor en un fondo inmobiliario mancomunado no es dueño de un edificio. Es dueño de una reclamación proporcional sobre un grupo de edificios. Un problema en cualquier activo — una vacancia, un litigio, una refinanciación — alcanza su capital, y el gestor del fondo, no el inversor, decide las distribuciones, la liquidez y cuándo se vende un activo.
+El Marco de Tenencia Directa es una estructura jurídica de propiedad bajo la cual cada inversor posee un interés fraccional definido en un único libro contable de propiedad nombrada, y no una reclamación proporcional sobre un fondo mancomunado. Cada activo se constituye como una unidad jurídica y financiera independiente, de modo que un evento financiero que afecta a un activo no puede propagarse a la posición accionaria del inversor en otro. Este artículo describe la estructura jurídica del marco, el mecanismo de aislamiento, las condiciones de transferencia y liquidez, y los derechos de gobierno del inversor.
 
-El Marco de Tenencia Directa elimina el fondo mancomunado. <!--claim id=asset-specific-equity confidence=structural cites=[]-->Emite capital específico por propiedad: cada inversor posee un interés fraccional definido en un único libro contable de propiedad nombrada, no una participación en un fondo mancomunado.<!--/claim-->
+<!--claim id=asset-specific-equity confidence=structural cites=[]-->El marco emite capital específico por propiedad: cada inversor posee un interés fraccional definido en un único libro contable de propiedad nombrada, no una participación en un fondo mancomunado.<!--/claim-->
 
 <!--claim id=independent-units confidence=structural cites=[]-->Cada activo es su propia unidad jurídica y financiera, aislada como un vehículo independiente. Un evento financiero que afecta a un activo no puede propagarse al capital del inversor en otro; el aislamiento es una propiedad de la arquitectura, no una promesa contractual.<!--/claim-->
-
-Para un inversor la consecuencia es la propiedad directa de un activo nombrado, con derechos de gobierno vinculados a esa propiedad y sin discrecionalidad del gestor del fondo sobre su capital. Este artículo cubre qué reemplaza el marco, el aislamiento legal, las transferencias y la liquidez, y la gobernanza.
 
 ## Qué reemplaza
 
@@ -54,4 +52,4 @@ Un inversor que desee salir localiza una contraparte dispuesta directamente; la 
 
 ---
 
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
+*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

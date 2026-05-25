@@ -10,7 +10,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-19
+last_edited: 2026-05-25
 editor: pointsav-engineering
 paired_with: topic-asset-evaluation.md
 cites: []
@@ -62,4 +62,4 @@ La evaluación de capital produce una recomendación de inversión; la puntuaci�
 
 ---
 
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/).*
+*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

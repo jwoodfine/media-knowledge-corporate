@@ -10,7 +10,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-06
+last_edited: 2026-05-25
 editor: pointsav-engineering
 paired_with: topic-redemption-elimination.es.md
 cites: []
@@ -38,7 +38,7 @@ The Direct-Hold architecture is immune to this failure mode. There is no queue t
 
 ## Investor implications
 
-The tradeoff is explicit: investors in Direct-Hold assets accept that the corporate entity will not buy them out. Liquidity depends on the private market for the specific asset. This is a structurally different risk profile than a pooled fund — and a more honest one, because the corporate entity is not making a liquidity promise it cannot keep.
+The structural consequence for investors is explicit: Woodfine Management Corp. does not provide a redemption facility. Liquidity depends on the private market for the specific asset. The Direct-Hold structure carries a different risk profile than a pooled fund — the corporate entity makes no liquidity commitment it cannot fulfill, because no pooled capital exists from which such a commitment could be honored.
 
 Without a redemption queue, no coordinated exit pressure can destabilize the portfolio. Long-term equity compounds without the structural drag of a cash reserve that earns less than the underlying assets.
 
@@ -50,4 +50,4 @@ Without a redemption queue, no coordinated exit pressure can destabilize the por
 
 ---
 
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

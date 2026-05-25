@@ -9,7 +9,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-06
+last_edited: 2026-05-25
 editor: pointsav-engineering
 paired_with: topic-redemption-elimination.md
 cites: []
@@ -35,7 +35,7 @@ Una cola de reembolso es vulnerable a un fallo de coordinación: si los inversor
 
 ## Implicaciones para los inversores
 
-La compensación es explícita: los inversores en activos de Tenencia Directa aceptan que la entidad corporativa no los rescatará. La liquidez depende del mercado privado para el activo específico. Este es un perfil de riesgo estructuralmente diferente al de un fondo mancomunado — y más honesto, porque la entidad corporativa no está haciendo una promesa de liquidez que no puede cumplir.
+La consecuencia estructural para los inversores es explícita: Woodfine Management Corp. no ofrece un mecanismo de reembolso. La liquidez depende del mercado privado para el activo específico. La estructura de Tenencia Directa conlleva un perfil de riesgo diferente al de un fondo mancomunado — la entidad corporativa no asume ningún compromiso de liquidez que no pueda cumplir, dado que no existe capital mancomunado del que dicho compromiso pudiera satisfacerse.
 
 Sin cola de reembolso, ninguna presión de salida coordinada puede desestabilizar la cartera. El capital a largo plazo se capitaliza sin la carga estructural de una reserva de efectivo que rinde menos que los activos subyacentes.
 
@@ -47,4 +47,4 @@ Sin cola de reembolso, ninguna presión de salida coordinada puede desestabiliza
 
 ---
 
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
+*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

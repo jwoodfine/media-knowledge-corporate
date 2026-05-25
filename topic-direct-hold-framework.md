@@ -10,19 +10,17 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-22
+last_edited: 2026-05-25
 editor: pointsav-engineering
 paired_with: topic-direct-hold-framework.es.md
 cites: []
 ---
 
-An investor in a pooled real-estate fund does not own a building. They own a proportional claim on a pool of buildings. A problem in any one asset — a vacancy, a lawsuit, a refinancing — reaches their capital, and the fund manager, not the investor, decides distributions, liquidity, and when an asset is sold.
+The Direct-Hold framework is a legal ownership structure under which each investor holds a defined fractional interest in a single named property ledger rather than a proportional claim on a commingled pool. Each asset is constituted as an independent legal and financial unit, so a financial event affecting one asset cannot propagate to an investor's equity position in another. This article describes the framework's legal structure, the isolation mechanism, transfer and liquidity terms, and investor governance rights.
 
-The Direct-Hold framework removes the pool. <!--claim id=asset-specific-equity confidence=structural cites=[]-->It issues property-specific equity: each investor holds a defined fractional interest in a single named property ledger, not a share in a commingled fund.<!--/claim-->
+<!--claim id=asset-specific-equity confidence=structural cites=[]-->The framework issues property-specific equity: each investor holds a defined fractional interest in a single named property ledger, not a share in a commingled fund.<!--/claim-->
 
 <!--claim id=independent-units confidence=structural cites=[]-->Each asset is its own legal and financial unit, isolated as an independent vehicle. A financial event affecting one asset cannot propagate to an investor's equity in another; the isolation is a property of the architecture, not a contractual promise.<!--/claim-->
-
-For an investor the consequence is direct ownership of a named asset, with governance rights attached to that property and no fund-manager discretion over their capital. This article covers what the framework replaces, the legal isolation, transfer and liquidity, and governance.
 
 ## What it replaces
 
@@ -55,4 +53,4 @@ An investor who wishes to exit locates a willing counterparty directly; the ente
 
 ---
 
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

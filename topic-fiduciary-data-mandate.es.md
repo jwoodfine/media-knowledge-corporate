@@ -9,13 +9,13 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-06
+last_edited: 2026-05-25
 editor: pointsav-engineering
 paired_with: topic-fiduciary-data-mandate.md
 cites: []
 ---
 
-La externalización de datos del libro contable de inversores a infraestructura de nube de terceros constituye un incumplimiento fiduciario bajo el mandato operativo de Woodfine Management Corp. — no una decisión de proveedor. El mandato exige la propiedad directa y matemática de todos los registros que definen posiciones de capital de inversores, valoraciones de activos y cadena de titularidad.
+El Mandato de Datos Fiduciarios es el requisito operativo de WMC que obliga a la entidad corporativa a mantener el control físico y criptográfico directo de todos los registros que definen las posiciones de capital de los inversores, las valoraciones de activos y la cadena de titularidad. El mandato trata la dependencia de infraestructura en la nube de terceros para los datos del libro contable de inversores como un incumplimiento fiduciario, no como una decisión de proveedor: una entidad corporativa que no puede acceder a sus propios registros del libro contable sin la cooperación de un tercero no puede cumplir de forma independiente sus obligaciones con los inversores.
 
 ## Qué cubre el mandato
 
@@ -45,4 +45,4 @@ Un inversor no puede ejercer derechos de gobierno sobre un activo cuyo libro con
 
 ---
 
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
+*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*
