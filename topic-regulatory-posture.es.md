@@ -16,7 +16,7 @@ paired_with: topic-regulatory-posture.md
 cites: []
 ---
 
-Woodfine Capital Projects Inc. y sus subsidiarias operan dentro del marco regulatorio de valores de Ontario. Los materiales publicados en corporate.woodfinegroup.com se tratan como divulgación públicamente disponible y son revisables en virtud de las obligaciones de divulgación continua del Instrumento Nacional 51-102 y el Aviso del Personal de la OSC 51-721.
+Woodfine Capital Projects Inc. y sus subsidiarias — incluidas las entidades descritas en la [[topic-corporate-structure|estructura corporativa]] — operan dentro del marco regulatorio de valores de Ontario. Los materiales publicados en corporate.woodfinegroup.com se tratan como divulgación públicamente disponible y son revisables en virtud de las [[topic-continuous-disclosure|obligaciones de divulgación continua]] del Instrumento Nacional 51-102 y el Aviso del Personal de la OSC 51-721. El régimen cubre las adquisiciones de activos colocadas bajo el [[topic-direct-hold-framework|Marco de Tenencia Directa]] y los [[topic-fiduciary-data-mandate|datos fiduciarios]] mantenidos por WMC como custodio.
 
 ## Marco aplicable
 

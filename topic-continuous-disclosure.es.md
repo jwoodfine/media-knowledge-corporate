@@ -16,7 +16,7 @@ paired_with: topic-continuous-disclosure.md
 cites: []
 ---
 
-El Instrumento Nacional 51-102 (Obligaciones de Divulgación Continua) establece los requisitos de reporte periódico y basado en eventos para los emisores reportantes de Ontario. Woodfine Capital Projects Inc. está sujeta al régimen completo de divulgación continua bajo este instrumento, incluyendo depósitos anuales, reportes trimestrales y obligaciones por cambios materiales.
+El Instrumento Nacional 51-102 (Obligaciones de Divulgación Continua) establece los requisitos de reporte periódico y basado en eventos para los emisores reportantes de Ontario. Woodfine Capital Projects Inc. está sujeta al régimen completo de divulgación continua bajo este instrumento, incluyendo depósitos anuales, reportes trimestrales y obligaciones por cambios materiales. El régimen se aplica a toda la [[topic-corporate-structure|estructura corporativa de Woodfine]] y rige las divulgaciones relativas a los activos de [[topic-direct-hold-framework|Tenencia Directa]] y a los [[topic-fiduciary-data-mandate|datos fiduciarios]] bajo custodia de WMC.
 
 ## Obligaciones anuales
 
@@ -43,7 +43,7 @@ El Aviso del Personal de la OSC 51-721 rige la entrega electrónica de documento
 
 ## Interacción con el contenido del wiki
 
-Los artículos publicados en corporate.woodfinegroup.com son de acceso público y se tratan como aptos para divulgación en virtud del NI 51-102. Un hecho material publicado en el wiki —una nueva adquisición de activos, un cambio en la estructura de capital, una actualización del marco de gobernanza— sin el correspondiente depósito en SEDAR+ genera una inconsistencia en la divulgación. Los editores de contenido aplican el criterio de cambio material a las publicaciones del wiki antes de hacerlas públicas, al igual que a los depósitos formales.
+Los artículos publicados en corporate.woodfinegroup.com son de acceso público y se tratan como aptos para divulgación en virtud del NI 51-102. Un hecho material publicado en el wiki —una nueva adquisición de activos, un cambio en la estructura de capital, una actualización del marco de gobernanza— sin el correspondiente depósito en SEDAR+ genera una inconsistencia en la divulgación. Los editores de contenido aplican el criterio de cambio material a las publicaciones del wiki antes de hacerlas públicas, al igual que a los depósitos formales. La postura más amplia está documentada en [[topic-regulatory-posture|Postura Regulatoria]].
 
 ## Véase también
 

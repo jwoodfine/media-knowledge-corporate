@@ -16,7 +16,7 @@ paired_with: topic-data-governance.md
 cites: []
 ---
 
-Woodfine Management Corp. es el custodio legal de todos los datos del registro de propiedades, los registros de inversores y los datos operativos generados en relación con los activos gestionados por WMC. PointSav Digital Systems procesa los datos como proveedor de servicios tecnológicos contratado; PointSav no ostenta derechos independientes sobre los datos bajo la custodia de WMC.
+Woodfine Management Corp. es el custodio legal de todos los datos del [[topic-property-ledger-technology|registro de propiedades]], los registros de inversores y los datos operativos generados en relación con los activos gestionados por WMC. PointSav Digital Systems procesa los datos como proveedor de servicios tecnológicos contratado en virtud del [[topic-technology-services|acuerdo de servicios tecnológicos]]; PointSav no ostenta derechos independientes sobre los datos bajo la custodia de WMC. El acuerdo de custodia implementa el [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] dentro del [[topic-vendor-customer-model|modelo proveedor-cliente]] más amplio.
 
 ## Custodio de datos
 
@@ -32,7 +32,7 @@ Los registros de identidad de los inversores se conservan durante el período ex
 
 ## Segregación de datos operativos
 
-Los datos operativos a nivel de activo —eventos financieros, registros de ocupación, historial de mantenimiento— están segregados por activo. Un inversor en un activo de Tenencia Directa no puede acceder a los datos operativos ni a los registros de posición de un activo diferente. Esta segregación es una propiedad de la arquitectura del registro: los controles de acceso se aplican a nivel de activo, no a nivel de cartera. Ninguna excepción de política ni anulación administrativa puede conceder acceso cruzado entre activos sin un cambio estructural en el registro.
+Los datos operativos a nivel de activo —eventos financieros, registros de ocupación, historial de mantenimiento— están segregados por activo. Un inversor en un activo de [[topic-direct-hold-framework|Tenencia Directa]] no puede acceder a los datos operativos ni a los registros de posición de un activo diferente. Esta segregación es una propiedad de la arquitectura del registro: los controles de acceso se aplican a nivel de activo, no a nivel de cartera. Ninguna excepción de política ni anulación administrativa puede conceder acceso cruzado entre activos sin un cambio estructural en el registro.
 
 ## Portabilidad de datos
 
