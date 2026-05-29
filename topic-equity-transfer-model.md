@@ -16,11 +16,11 @@ paired_with: topic-equity-transfer-model.es.md
 cites: []
 ---
 
-Woodfine Direct-Hold equity transfers freely between private parties; the corporate entity records the change but does not approve or intermediate it. Two structural principles govern the model: freely transferable equity and strict peer-to-peer execution — no corporate intermediation, no liquidity windows.
+Woodfine [[topic-direct-hold-framework|Direct-Hold]] equity transfers freely between private parties; the corporate entity records the change but does not approve or intermediate it. Two structural principles govern the model: freely transferable equity and strict peer-to-peer execution — no corporate intermediation, no liquidity windows. The model relies on the [[topic-fiduciary-data-mandate|fiduciary data mandate]] for ledger integrity and operates alongside the [[topic-interest-coverage-ratio|interest coverage ratio]] discipline applied at the asset level.
 
 ## Freely transferable equity
 
-Woodfine Management Corp. issues freely transferable private equity in each isolated property ledger. "Freely transferable" means the holder may offer their interest to any willing counterparty without requiring corporate approval for the transfer itself. The corporate entity maintains the ledger but does not control who may acquire equity in it.
+Woodfine Management Corp. issues freely transferable private equity in each isolated [[topic-property-ledger-technology|property ledger]]. "Freely transferable" means the holder may offer their interest to any willing counterparty without requiring corporate approval for the transfer itself. The corporate entity maintains the ledger but does not control who may acquire equity in it. Each unit of equity issued constitutes an [[topic-investment-units|investment unit]] in the named asset.
 
 This distinguishes the model from restricted-equity structures — common in private real estate vehicles — where the issuer retains right of first refusal, imposes transfer restrictions, or requires investor qualification re-approval on each transfer.
 
@@ -30,7 +30,7 @@ Transfer execution is strictly between private parties. The corporate entity doe
 
 ## No subjective liquidity requirements
 
-Traditional fund structures impose redemption gates, liquidity reserves, and lock-up periods subject to fund manager discretion. The Equity Transfer Model contains none of these mechanisms. Liquidity terms are determined by the market of willing buyers, not by corporate entity policy.
+Traditional fund structures impose redemption gates, liquidity reserves, and lock-up periods subject to fund manager discretion. The Equity Transfer Model contains none of these mechanisms — see [[topic-redemption-elimination|Redemption Elimination]] for the structural rationale. Liquidity terms are determined by the market of willing buyers, not by corporate entity policy. The [[topic-perpetual-equity-model|perpetual equity model]] applies the same logic over an indefinite holding horizon.
 
 ## Ledger integrity
 

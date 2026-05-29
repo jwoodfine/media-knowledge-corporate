@@ -16,7 +16,7 @@ paired_with: topic-interest-coverage-ratio.es.md
 cites: []
 ---
 
-A minimum 1.2x interest coverage ratio constrains every Woodfine Direct-Hold asset — no new debt may be issued that would reduce operating-income-to-interest coverage below this floor. The constraint is self-imposed by the corporate entity as a fiduciary discipline; no external lender covenant requires it.
+A minimum 1.2x interest coverage ratio constrains every Woodfine [[topic-direct-hold-framework|Direct-Hold]] asset — no new debt may be issued that would reduce operating-income-to-interest coverage below this floor. The constraint is self-imposed by the corporate entity as a fiduciary discipline; no external lender covenant requires it. It operates alongside the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] and the [[topic-equity-transfer-model|Equity Transfer Model]] as the third structural commitment applied per asset.
 
 ## What the ratio measures
 
@@ -30,11 +30,11 @@ The 1.2 threshold is a deliberate structural choice, not a regulatory minimum. T
 
 ## Relationship to asset protection
 
-The ICR floor is the primary mechanism by which the Direct-Hold architecture protects physical assets from foreclosure. A corporate entity that allows its ICR to fall below 1.0 enters a state where debt service depends on capital drawdowns — a structurally unstable condition. The 1.2 constraint prevents this by design.
+The ICR floor is the primary mechanism by which the Direct-Hold architecture protects physical assets from foreclosure. A corporate entity that allows its ICR to fall below 1.0 enters a state where debt service depends on capital drawdowns — a structurally unstable condition that the [[topic-redemption-elimination|absence of a redemption queue]] would otherwise leave unmitigated. The 1.2 constraint prevents this by design.
 
 A foreclosure event in one asset vehicle cannot propagate to others because each asset is legally isolated. The ICR applies per-vehicle — it cannot be satisfied by cross-subsidizing a weak asset with a strong one.
 
-A portfolio that maintains 1.2x ICR indefinitely avoids forced asset sales triggered by debt-service shortfalls, preserving long-term equity value without requiring capital injections.
+A portfolio that maintains 1.2x ICR indefinitely avoids forced asset sales triggered by debt-service shortfalls, preserving long-term equity value without requiring capital injections. The discipline is consistent with the [[topic-perpetual-equity-model|perpetual equity model]] applied to fractional [[topic-investment-units|investment units]].
 
 ## See also
 

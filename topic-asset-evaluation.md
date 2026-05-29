@@ -16,7 +16,7 @@ paired_with: topic-asset-evaluation.es.md
 cites: []
 ---
 
-WMC's asset acquisition process begins with the co-location ranking matrix. A candidate site must achieve a minimum tier classification before capital evaluation proceeds. The tier score is the entry filter — it removes subjective judgment from the initial screening stage and establishes a reproducible basis for comparing candidate sites across geographies.
+WMC's asset acquisition process begins with the [[topic-co-location-investment-thesis|co-location]] ranking matrix. A candidate site must achieve a minimum tier classification before capital evaluation proceeds. The tier score is the entry filter — it removes subjective judgment from the initial screening stage and establishes a reproducible basis for comparing candidate sites across geographies. Sites that pass the screen subsequently enter the [[topic-direct-hold-framework|Direct-Hold framework]] under the [[topic-interest-coverage-ratio|interest coverage]] discipline.
 
 ## Tier score as entry criterion
 
@@ -52,7 +52,7 @@ A site that passes the minimum tier threshold enters capital evaluation. Capital
 - Current market rental rates relative to in-place rents
 - Debt service capacity and financing terms
 
-Capital evaluation produces an investment recommendation; the tier score produced the candidate set. Neither step can substitute for the other.
+Capital evaluation produces an investment recommendation; the tier score produced the candidate set. Neither step can substitute for the other. Approved acquisitions are placed under [[topic-fiduciary-data-mandate|fiduciary data custody]] from the moment of closing.
 
 ## See also
 
