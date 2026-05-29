@@ -16,11 +16,11 @@ paired_with: topic-technology-services.md
 cites: []
 ---
 
-PointSav Digital Systems presta servicios tecnológicos a Woodfine Management Corp. en virtud de un acuerdo contractual de servicios. El acuerdo define el alcance del compromiso de PointSav, las obligaciones en materia de datos que PointSav mantiene hacia WMC y los límites que impiden que la relación de servicios tecnológicos se extienda a funciones de gestión de inversiones o asesoramiento fiduciario.
+PointSav Digital Systems presta servicios tecnológicos a Woodfine Management Corp. en virtud de un acuerdo contractual de servicios que implementa el [[topic-vendor-customer-model|modelo proveedor-cliente]]. El acuerdo define el alcance del compromiso de PointSav, las obligaciones en materia de datos que PointSav mantiene hacia WMC y los límites que impiden que la relación de servicios tecnológicos se extienda a funciones de gestión de inversiones o asesoramiento fiduciario. Las obligaciones de PointSav operan junto al [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] bajo el cual WMC conserva la custodia de todos los datos del libro contable.
 
 ## Estructura del acuerdo
 
-El acuerdo de servicios establece a PointSav como proveedor de tecnología contratado —no como socio, cogestor ni asesor en materia de inversión o asuntos fiduciarios—. PointSav presta servicios definidos; WMC dirige esos servicios y conserva toda la custodia de los datos, la autoridad sobre las decisiones de inversión y la responsabilidad de las relaciones con los inversores.
+El acuerdo de servicios establece a PointSav como proveedor de tecnología contratado —no como socio, cogestor ni asesor en materia de inversión o asuntos fiduciarios—. PointSav presta servicios definidos; WMC dirige esos servicios y conserva toda la [[topic-data-governance|custodia de los datos]], la autoridad sobre las decisiones de inversión y la responsabilidad de las relaciones con los inversores.
 
 PointSav no posee participaciones en ninguna propiedad gestionada por WMC en virtud del acuerdo. PointSav no recibe una parte de los rendimientos de inversión. La remuneración se estructura como una tarifa por servicios tecnológicos, no como una participación en beneficios ni una asignación basada en el rendimiento.
 
@@ -28,7 +28,7 @@ PointSav no posee participaciones en ninguna propiedad gestionada por WMC en vir
 
 El acuerdo abarca:
 
-- Desarrollo de plataforma y mantenimiento de software para la infraestructura del registro de propiedades y el portal de inversores
+- Desarrollo de plataforma y mantenimiento de software para la infraestructura del [[topic-property-ledger-technology|registro de propiedades]] y el portal de inversores
 - Infraestructura de servidores y gestión de claves privadas para las operaciones del registro
 - Servicios de exportación de datos y portabilidad a solicitud de WMC
 - Monitoreo de seguridad y funciones de integridad del sistema

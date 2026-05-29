@@ -16,7 +16,8 @@ paired_with: disclaimers.md
 Nada de lo que figura en esta wiki constituye asesoramiento de inversión, una solicitud de
 compra o venta de valores, ni una oferta de participación en ningún producto de inversión.
 Los artículos describen las características estructurales y jurídicas de los marcos de
-Woodfine Management Corp. como material de referencia para profesionales institucionales.
+Woodfine Management Corp. — incluido el [[topic-direct-hold-framework|Marco de Tenencia Directa]] y
+los modelos de gobernanza relacionados — como material de referencia para profesionales institucionales.
 
 ## Declaraciones prospectivas
 
@@ -24,7 +25,8 @@ Algunos artículos describen características planificadas o previstas de estruc
 corporativas. Estas declaraciones prospectivas están sujetas a riesgos e incertidumbres
 materiales. Los resultados reales pueden diferir. El lenguaje prospectivo se identifica
 con términos como "planificado", "previsto", "puede" o "objetivo", en cumplimiento de los
-requisitos de divulgación continua bajo la NI 51-102 y el SN 51-721 de la OSC.
+requisitos de [[topic-continuous-disclosure|divulgación continua]] bajo la NI 51-102 y el SN 51-721 de la OSC,
+y coherente con la [[topic-regulatory-posture|postura regulatoria]] del emisor.
 
 ## Exactitud
 

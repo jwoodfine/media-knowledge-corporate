@@ -15,7 +15,7 @@ paired_with: topic-redemption-elimination.md
 cites: []
 ---
 
-Los activos de Tenencia Directa de Woodfine no tienen cola de reembolso — el capital de cada inversor corresponde a una propiedad específica, y la liquidez depende del mercado privado para ese activo, no de las reservas de efectivo de la entidad corporativa. Dado que no existe un fondo mancomunado, la condición que hace necesarios los mecanismos de reembolso está ausente por diseño.
+Los activos de [[topic-direct-hold-framework|Tenencia Directa]] de Woodfine no tienen cola de reembolso — el capital de cada inversor corresponde a una propiedad específica, y la liquidez depende del mercado privado para ese activo, no de las reservas de efectivo de la entidad corporativa. Dado que no existe un fondo mancomunado, la condición que hace necesarios los mecanismos de reembolso está ausente por diseño. La liquidez se ejecuta a través del [[topic-equity-transfer-model|Modelo de Transferencia de Capital]], y la deuda a nivel de activo está limitada por el [[topic-interest-coverage-ratio|Ratio de Cobertura de Intereses]] de modo que no se requieren reservas de efectivo para atender las obligaciones.
 
 ## Por qué existen las colas de reembolso
 
@@ -27,7 +27,7 @@ La reserva de efectivo es un pasivo estructural. Rinde menos que los activos sub
 
 La arquitectura de Tenencia Directa elimina la condición que requiere una reserva de efectivo. No hay capital mancomunado. El capital de cada inversor corresponde a una propiedad específica, no a una participación en un fondo. La entidad corporativa no promete devolver capital a demanda — porque no hay fondo del que extraer.
 
-Un inversor que quiera salir localiza un comprador dispuesto en el mercado privado. La entidad corporativa actualiza el libro contable. No se accede a ninguna reserva de efectivo. La posición de ningún otro inversor se ve afectada.
+Un inversor que quiera salir localiza un comprador dispuesto en el mercado privado. La entidad corporativa actualiza el [[topic-property-ledger-technology|libro contable]]. No se accede a ninguna reserva de efectivo. La posición de ningún otro inversor se ve afectada.
 
 ## "Corridas bancarias" artificiales
 
@@ -37,7 +37,7 @@ Una cola de reembolso es vulnerable a un fallo de coordinación: si los inversor
 
 La consecuencia estructural para los inversores es explícita: Woodfine Management Corp. no ofrece un mecanismo de reembolso. La liquidez depende del mercado privado para el activo específico. La estructura de Tenencia Directa conlleva un perfil de riesgo diferente al de un fondo mancomunado — la entidad corporativa no asume ningún compromiso de liquidez que no pueda cumplir, dado que no existe capital mancomunado del que dicho compromiso pudiera satisfacerse.
 
-Sin cola de reembolso, ninguna presión de salida coordinada puede desestabilizar la cartera. El capital a largo plazo se capitaliza sin la carga estructural de una reserva de efectivo que rinde menos que los activos subyacentes.
+Sin cola de reembolso, ninguna presión de salida coordinada puede desestabilizar la cartera. El capital a largo plazo se capitaliza sin la carga estructural de una reserva de efectivo que rinde menos que los activos subyacentes, coherente con el [[topic-perpetual-equity-model|modelo de capital perpetuo]] aplicado a las participaciones fraccionales de los inversores.
 
 ## Véase también
 

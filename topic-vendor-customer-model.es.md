@@ -16,17 +16,17 @@ paired_with: topic-vendor-customer-model.md
 cites: []
 ---
 
-PointSav Digital Systems ocupa el rol de proveedor; Woodfine Management Corp. ocupa el rol de cliente. PointSav suministra servicios de plataforma tecnológica —infraestructura del registro de propiedades, portal de inversores, mantenimiento de software— y WMC dirige los requisitos de la plataforma, ostenta la custodia de los datos y es la única responsable de las decisiones de inversión y fiduciarias.
+PointSav Digital Systems ocupa el rol de proveedor; Woodfine Management Corp. ocupa el rol de cliente dentro de la [[topic-corporate-structure|estructura corporativa de Woodfine]]. PointSav suministra servicios de plataforma tecnológica —infraestructura del [[topic-property-ledger-technology|registro de propiedades]], portal de inversores, mantenimiento de software— y WMC dirige los requisitos de la plataforma, ostenta la custodia de los datos en virtud del [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] y es la única responsable de las decisiones de inversión y fiduciarias que afectan a los activos de [[topic-direct-hold-framework|Tenencia Directa]].
 
 ## Obligaciones del proveedor
 
-Las obligaciones de PointSav son operativas y técnicas. El proveedor es responsable de la disponibilidad de la plataforma, la integridad del software, la seguridad informática y la consistencia de los datos del registro. PointSav no ejerce discrecionalidad sobre qué datos se almacenan, cómo se clasifican ni cómo se utilizan; esas decisiones corresponden a WMC como custodio de los datos.
+Las obligaciones de PointSav en virtud del [[topic-technology-services|acuerdo de servicios tecnológicos]] son operativas y técnicas. El proveedor es responsable de la disponibilidad de la plataforma, la integridad del software, la seguridad informática y la consistencia de los datos del registro. PointSav no ejerce discrecionalidad sobre qué datos se almacenan, cómo se clasifican ni cómo se utilizan; esas decisiones corresponden a WMC como custodio de los datos.
 
 PointSav no representa a WMC ante inversores ni ante organismos reguladores. PointSav no proporciona asesoramiento en materia de cumplimiento normativo, asesoramiento de inversión ni servicios fiduciarios. El ámbito del proveedor se limita al perímetro de la plataforma.
 
 ## Derechos del cliente
 
-WMC conserva la custodia legal plena de todos los datos procesados por la plataforma. Si WMC contrata a un proveedor de tecnología diferente, los datos del registro de propiedades son portables; no permanecen en poder de PointSav. La arquitectura está diseñada para que WMC pueda reconstruir el control operativo completo del registro a partir de datos exportados, sin depender de ninguna implementación de software específica de PointSav.
+WMC conserva la custodia legal plena de todos los datos procesados por la plataforma — véase [[topic-data-governance|Gobernanza de Datos]] para el marco completo de custodia. Si WMC contrata a un proveedor de tecnología diferente, los datos del registro de propiedades son portables; no permanecen en poder de PointSav. La arquitectura está diseñada para que WMC pueda reconstruir el control operativo completo del registro a partir de datos exportados, sin depender de ninguna implementación de software específica de PointSav.
 
 WMC dirige los requisitos de la plataforma. PointSav construye y mantiene conforme a esos requisitos. El cliente determina qué hace la plataforma; el proveedor determina cómo.
 

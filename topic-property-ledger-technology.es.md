@@ -16,17 +16,17 @@ paired_with: topic-property-ledger-technology.md
 cites: []
 ---
 
-Cada activo mantenido bajo el Marco de Tenencia Directa tiene un registro de propiedades asociado. El registro es el documento autoritativo de las asignaciones fraccionarias de capital, los eventos financieros del activo y el historial de transferencias. Woodfine Management Corp. ostenta la custodia legal del registro; PointSav Digital Systems mantiene la infraestructura técnica en su calidad de proveedor de servicios tecnológicos contratado.
+Cada activo mantenido bajo el [[topic-direct-hold-framework|Marco de Tenencia Directa]] tiene un registro de propiedades asociado. El registro es el documento autoritativo de las asignaciones fraccionarias de capital, los eventos financieros del activo y el historial de transferencias. Woodfine Management Corp. ostenta la custodia legal del registro en virtud del [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]]; PointSav Digital Systems mantiene la infraestructura técnica en su calidad de proveedor de servicios tecnológicos contratado bajo el [[topic-technology-services|acuerdo de servicios tecnológicos]].
 
 ## Qué registra el libro
 
 El registro de propiedades recoge tres categorías de información:
 
-**Asignaciones fraccionarias de capital.** El registro documenta quién posee qué porcentaje del activo nombrado en cada momento. La posición de cada inversor se expresa como un porcentaje de la propiedad específica —no como una participación en un fondo ni como un derecho proporcional sobre un conjunto de activos.
+**Asignaciones fraccionarias de capital.** El registro documenta quién posee qué porcentaje del activo nombrado en cada momento. La posición de cada inversor se expresa como un porcentaje de la propiedad específica —no como una participación en un fondo ni como un derecho proporcional sobre un conjunto de activos. Cada participación fraccional se constituye como una [[topic-investment-units|unidad de inversión]] en el activo nombrado.
 
 **Eventos financieros del activo.** Las distribuciones, las transacciones de servicio de deuda, las valoraciones y otros eventos financieros que afectan al activo se registran en el libro con marcas de tiempo e importes. El registro es de solo adición para los asientos operativos; ningún registro de evento financiero anterior puede sobrescribirse.
 
-**Historial de transferencias.** Cada transferencia de capital entre pares se registra con la marca de tiempo de la transacción y las identidades de las partes cedente y adquirente. El registro mantiene una cadena completa de titularidad desde la emisión inicial de capital del activo.
+**Historial de transferencias.** Cada transferencia de capital entre pares se registra con la marca de tiempo de la transacción y las identidades de las partes cedente y adquirente, coherente con el [[topic-equity-transfer-model|Modelo de Transferencia de Capital]]. El registro mantiene una cadena completa de titularidad desde la emisión inicial de capital del activo.
 
 ## Custodia y control
 
@@ -49,6 +49,7 @@ El registro de propiedades es un registro criptográfico mantenido por la entida
 - [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] — las obligaciones de WMC como custodio del registro de propiedades
 - [[topic-data-governance|Gobernanza de Datos]] — cómo se manejan los datos personales y operativos bajo el marco de custodia de WMC
 - [[topic-vendor-customer-model|Modelo Proveedor-Cliente]] — la relación de servicios bajo la cual PointSav mantiene la infraestructura técnica
+- [Arquitectura del Registro WORM](https://documentation.pointsav.com/infrastructure/worm-ledger-architecture) — arquitectura subyacente del registro referenciada en este artículo
 
 ---
 

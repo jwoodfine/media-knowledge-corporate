@@ -16,7 +16,7 @@ paired_with: topic-co-location-investment-thesis.md
 cites: []
 ---
 
-Cuando los minoristas de grado institucional seleccionan de forma independiente el mismo nodo geográfico, esa convergencia es una condición objetiva: cartografiable, verificable y reproducible por cualquier analista con acceso a datos de ubicación públicos. La tesis de inversión por co-ubicación sostiene que esta convergencia es un indicador estructuralmente superior de la calidad de un emplazamiento comercial, frente a cualquier evaluación basada en un único ancla.
+Cuando los minoristas de grado institucional seleccionan de forma independiente el mismo nodo geográfico, esa convergencia es una condición objetiva: cartografiable, verificable y reproducible por cualquier analista con acceso a datos de ubicación públicos. La tesis de inversión por co-ubicación sostiene que esta convergencia es un indicador estructuralmente superior de la calidad de un emplazamiento comercial, frente a cualquier evaluación basada en un único ancla. WMC operacionaliza la tesis a través del [[topic-asset-evaluation|protocolo de evaluación de activos]] y aplica el [[topic-direct-hold-framework|Marco de Tenencia Directa]] a las adquisiciones aprobadas bajo la [[topic-interest-coverage-ratio|disciplina de cobertura de intereses]].
 
 ## La observación subyacente
 
@@ -34,7 +34,7 @@ La convergencia de compromisos es la señal de inversión. Es reproducible; no d
 
 La metodología de co-ubicación traduce esta tesis en una matriz de clasificación. Un ancla de Objetivo Principal —definida como Walmart Supercentre en mercados norteamericanos e IKEA en mercados europeos— se puntúa frente a los operadores secundarios presentes en un radio de 3 km y la infraestructura cívica terciaria (hospitales, instituciones de educación superior) presente en un radio de 5 km. Cada capa recibe una puntuación; la puntuación combinada produce una clasificación por niveles.
 
-La matriz es reproducible mediante análisis GIS independiente utilizando datos públicos de ubicación de minoristas y coordenadas de instalaciones cívicas. WMC no trata su metodología de puntuación por niveles como un activo propietario. Un analista que aplique la misma matriz a los mismos datos debería llegar a la misma clasificación para un emplazamiento dado.
+La matriz es reproducible mediante análisis GIS independiente utilizando datos públicos de ubicación de minoristas y coordenadas de instalaciones cívicas. WMC no trata su metodología de puntuación por niveles como un activo propietario. Un analista que aplique la misma matriz a los mismos datos debería llegar a la misma clasificación para un emplazamiento dado. La [[topic-corporate-structure|estructura corporativa]] separa este trabajo tecnológico y analítico de la toma de decisiones de inversión a nivel de entidad.
 
 ## Alcance de la afirmación
 
@@ -47,6 +47,7 @@ Una puntuación de nivel elevada es condición necesaria, pero no suficiente, pa
 - [[topic-asset-evaluation|Protocolo de Evaluación de Activos]] — cómo la puntuación por niveles funciona como criterio de entrada en el proceso de adquisición de WMC
 - [[topic-corporate-structure|Estructura Corporativa]] — las entidades responsables de ejecutar las adquisiciones
 - [[topic-direct-hold-framework|Marco de Tenencia Directa]] — la estructura de propiedad aplicada a los activos adquiridos
+- [Metodología de Co-ubicación](https://projects.woodfinegroup.com/topic-co-location-methodology) — metodología analítica detallada que sustenta la tesis de inversión
 
 ---
 
