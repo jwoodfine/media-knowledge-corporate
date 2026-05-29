@@ -16,7 +16,7 @@ paired_with: topic-data-governance.es.md
 cites: []
 ---
 
-Woodfine Management Corp. is the legal custodian of all property ledger data, investor records, and operational data generated in connection with WMC-managed assets. PointSav Digital Systems processes data as a contracted technology services provider; PointSav does not hold independent data rights over any WMC-custodied data.
+Woodfine Management Corp. is the legal custodian of all [[topic-property-ledger-technology|property ledger]] data, investor records, and operational data generated in connection with WMC-managed assets. PointSav Digital Systems processes data as a contracted technology services provider under the [[topic-technology-services|technology services agreement]]; PointSav does not hold independent data rights over any WMC-custodied data. The custody arrangement implements the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] within the broader [[topic-vendor-customer-model|vendor-customer model]].
 
 ## Data custodian
 
@@ -32,7 +32,7 @@ Investor identity records are retained for the period required by applicable sec
 
 ## Operational data segregation
 
-Asset-level operational data — financial events, occupancy records, maintenance history — is segregated by asset. An investor in one Direct-Hold asset cannot access the operational data or position records of a different asset. This segregation is a property of the ledger architecture: access controls are enforced at the asset level, not at the portfolio level. No policy exception or administrative override can grant cross-asset data access without a structural change to the ledger.
+Asset-level operational data — financial events, occupancy records, maintenance history — is segregated by asset. An investor in one [[topic-direct-hold-framework|Direct-Hold]] asset cannot access the operational data or position records of a different asset. This segregation is a property of the ledger architecture: access controls are enforced at the asset level, not at the portfolio level. No policy exception or administrative override can grant cross-asset data access without a structural change to the ledger.
 
 ## Data portability
 

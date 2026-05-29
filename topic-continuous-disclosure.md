@@ -16,7 +16,7 @@ paired_with: topic-continuous-disclosure.es.md
 cites: []
 ---
 
-National Instrument 51-102 (Continuous Disclosure Obligations) establishes the periodic and event-driven reporting requirements for Ontario reporting issuers. Woodfine Capital Projects Inc. is subject to the full continuous-disclosure regime under this instrument, including annual filings, quarterly reporting, and material change obligations.
+National Instrument 51-102 (Continuous Disclosure Obligations) establishes the periodic and event-driven reporting requirements for Ontario reporting issuers. Woodfine Capital Projects Inc. is subject to the full continuous-disclosure regime under this instrument, including annual filings, quarterly reporting, and material change obligations. The regime applies across the [[topic-corporate-structure|Woodfine corporate structure]] and governs disclosures pertaining to [[topic-direct-hold-framework|Direct-Hold]] assets and the [[topic-fiduciary-data-mandate|fiduciary data]] held under WMC custody.
 
 ## Annual obligations
 
@@ -43,7 +43,7 @@ OSC Staff Notice 51-721 governs the electronic delivery of disclosure documents 
 
 ## Interaction with wiki content
 
-The articles published at corporate.woodfinegroup.com are publicly available and treated as disclosure-eligible under NI 51-102. A material fact published on the wiki — a new asset acquisition, a change in capital structure, an update to the governance framework — without a corresponding SEDAR+ filing creates disclosure inconsistency. Content editors apply the same material-change test to wiki publications as to formal filings before any article is made public.
+The articles published at corporate.woodfinegroup.com are publicly available and treated as disclosure-eligible under NI 51-102. A material fact published on the wiki — a new asset acquisition, a change in capital structure, an update to the governance framework — without a corresponding SEDAR+ filing creates disclosure inconsistency. Content editors apply the same material-change test to wiki publications as to formal filings before any article is made public. The broader posture is documented in [[topic-regulatory-posture|Regulatory Posture]].
 
 ## See also
 

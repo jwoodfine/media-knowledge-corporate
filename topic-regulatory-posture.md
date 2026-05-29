@@ -16,7 +16,7 @@ paired_with: topic-regulatory-posture.es.md
 cites: []
 ---
 
-Woodfine Capital Projects Inc. and its subsidiaries operate within Ontario's securities regulatory framework. Materials published at corporate.woodfinegroup.com are treated as publicly available disclosure and are reviewable under the continuous-disclosure obligations of National Instrument 51-102 and OSC Staff Notice 51-721.
+Woodfine Capital Projects Inc. and its subsidiaries — including the entities described in the [[topic-corporate-structure|corporate structure]] — operate within Ontario's securities regulatory framework. Materials published at corporate.woodfinegroup.com are treated as publicly available disclosure and are reviewable under the [[topic-continuous-disclosure|continuous-disclosure obligations]] of National Instrument 51-102 and OSC Staff Notice 51-721. The regime covers asset acquisitions placed under the [[topic-direct-hold-framework|Direct-Hold framework]] and the [[topic-fiduciary-data-mandate|fiduciary data]] held by WMC as custodian.
 
 ## Applicable framework
 

@@ -16,7 +16,7 @@ paired_with: topic-fiduciary-data-mandate.es.md
 cites: []
 ---
 
-The Fiduciary Data Mandate is WMC's operating requirement that the corporate entity holds direct physical and cryptographic control of all records defining investor equity positions, asset valuations, and chain of title. The mandate treats reliance on third-party cloud infrastructure for investor ledger data as a fiduciary failure, not a vendor relationship: a corporate entity that cannot access its own ledger records without a third party's cooperation cannot independently discharge its obligations to investors.
+The Fiduciary Data Mandate is WMC's operating requirement that the corporate entity holds direct physical and cryptographic control of all records defining investor equity positions, asset valuations, and chain of title. The mandate treats reliance on third-party cloud infrastructure for investor [[topic-property-ledger-technology|ledger data]] as a fiduciary failure, not a vendor relationship: a corporate entity that cannot access its own ledger records without a third party's cooperation cannot independently discharge its obligations to investors. The mandate underpins the [[topic-direct-hold-framework|Direct-Hold framework]], enables the [[topic-equity-transfer-model|Equity Transfer Model]], and is applied alongside the [[topic-interest-coverage-ratio|Interest Coverage Ratio]] discipline at the asset level.
 
 ## What the mandate covers
 
@@ -30,13 +30,13 @@ The Fiduciary Data Mandate closes this vulnerability by treating digital soverei
 
 ## PointSav platform
 
-The corporate entity's compliance with the mandate is supported by the PointSav platform. PointSav provides the operating infrastructure for investor ledger management: a self-hosted system where the corporate entity holds the private keys, the physical hardware, and operational control of the software stack. No third-party intermediary has access to ledger data without the corporate entity's cryptographic consent.
+The corporate entity's compliance with the mandate is supported by the PointSav platform under the [[topic-technology-services|technology services agreement]]. PointSav provides the operating infrastructure for investor ledger management: a self-hosted system where the corporate entity holds the private keys, the physical hardware, and operational control of the software stack. No third-party intermediary has access to ledger data without the corporate entity's cryptographic consent. The arrangement is governed by the [[topic-vendor-customer-model|vendor-customer model]] that separates platform operation from fiduciary responsibility.
 
 ## Scope and limits
 
 The mandate applies to investor ledger data and chain-of-title records. It does not extend to marketing materials, tenant management systems, or communications infrastructure — those may use hosted services. The distinction: whatever would need to be produced in a legal dispute about investor ownership is within scope.
 
-An investor cannot exercise governance rights over an asset whose legal ledger they cannot access. The mandate closes this structural gap: a corporate entity that controls its own ledger infrastructure can always produce the authoritative record, regardless of third-party service availability.
+An investor cannot exercise governance rights over an asset whose legal ledger they cannot access. The mandate closes this structural gap: a corporate entity that controls its own ledger infrastructure can always produce the authoritative record, regardless of third-party service availability. The discipline complements broader [[topic-data-governance|data governance]] obligations and the [[topic-continuous-disclosure|continuous-disclosure regime]] applicable to the issuer.
 
 ## See also
 
