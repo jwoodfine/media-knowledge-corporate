@@ -16,11 +16,11 @@ paired_with: topic-technology-services.es.md
 cites: []
 ---
 
-PointSav Digital Systems provides technology services to Woodfine Management Corp. under a contractual services agreement. The agreement defines the scope of PointSav's engagement, the data obligations PointSav holds toward WMC, and the boundaries that prevent the technology services relationship from crossing into investment management or fiduciary advisory functions.
+PointSav Digital Systems provides technology services to Woodfine Management Corp. under a contractual services agreement implementing the [[topic-vendor-customer-model|vendor-customer model]]. The agreement defines the scope of PointSav's engagement, the data obligations PointSav holds toward WMC, and the boundaries that prevent the technology services relationship from crossing into investment management or fiduciary advisory functions. PointSav's obligations operate alongside the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] under which WMC retains custody of all ledger data.
 
 ## Agreement structure
 
-The services agreement establishes PointSav as a contracted technology vendor — not a partner, not a co-manager, and not an advisor on investment or fiduciary matters. PointSav delivers defined services; WMC directs those services and retains all data custody, investment decision authority, and investor relationship responsibility.
+The services agreement establishes PointSav as a contracted technology vendor — not a partner, not a co-manager, and not an advisor on investment or fiduciary matters. PointSav delivers defined services; WMC directs those services and retains all [[topic-data-governance|data custody]], investment decision authority, and investor relationship responsibility.
 
 PointSav does not hold equity in any WMC-managed property under the agreement. PointSav does not receive a share of investment returns. Compensation is structured as a technology services fee, not as a carried interest or performance allocation.
 
@@ -28,7 +28,7 @@ PointSav does not hold equity in any WMC-managed property under the agreement. P
 
 The agreement covers:
 
-- Platform development and software maintenance for the property ledger infrastructure and investor portal
+- Platform development and software maintenance for the [[topic-property-ledger-technology|property ledger]] infrastructure and investor portal
 - Server infrastructure and private key management for ledger operations
 - Data export and portability services on WMC's request
 - Security monitoring and system integrity functions

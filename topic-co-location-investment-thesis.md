@@ -16,7 +16,7 @@ paired_with: topic-co-location-investment-thesis.es.md
 cites: []
 ---
 
-When institutional-grade retailers independently select the same geographic node, that convergence is an objective condition — mappable, verifiable, and reproducible by any analyst with access to public location data. The co-location investment thesis holds that this convergence is a structurally superior indicator of commercial site quality compared to any single-anchor evaluation.
+When institutional-grade retailers independently select the same geographic node, that convergence is an objective condition — mappable, verifiable, and reproducible by any analyst with access to public location data. The co-location investment thesis holds that this convergence is a structurally superior indicator of commercial site quality compared to any single-anchor evaluation. WMC operationalizes the thesis through the [[topic-asset-evaluation|asset evaluation protocol]] and applies the [[topic-direct-hold-framework|Direct-Hold framework]] to approved acquisitions under the [[topic-interest-coverage-ratio|interest coverage discipline]].
 
 ## The underlying observation
 
@@ -34,7 +34,7 @@ The convergence of commitments is the investment signal. It is reproducible; it 
 
 The co-location methodology translates this thesis into a ranking matrix. A Primary Target anchor — defined as Walmart Supercentre in North American markets and IKEA in European markets — is scored against secondary operators present within 3 km and tertiary civic infrastructure (hospitals, post-secondary institutions) present within 5 km. Each layer receives a score; the combined score produces a tier classification.
 
-The matrix is reproducible by independent GIS analysis using publicly available retailer location data and civic facility coordinates. WMC does not treat its tier scoring methodology as proprietary. An analyst applying the same matrix to the same data should reach the same classification for a given site.
+The matrix is reproducible by independent GIS analysis using publicly available retailer location data and civic facility coordinates. WMC does not treat its tier scoring methodology as proprietary. An analyst applying the same matrix to the same data should reach the same classification for a given site. The [[topic-corporate-structure|corporate structure]] separates this technology and analytics work from investment decision-making at the entity level.
 
 ## Scope of the claim
 
@@ -47,6 +47,7 @@ A high tier score is a necessary but not sufficient condition for acquisition.
 - [[topic-asset-evaluation|Asset Evaluation Protocol]] — how the tier score functions as an entry criterion in WMC's acquisition process
 - [[topic-corporate-structure|Corporate Structure]] — the entities responsible for executing acquisitions
 - [[topic-direct-hold-framework|Direct-Hold Framework]] — the ownership structure applied to acquired assets
+- [Co-Location Methodology](https://projects.woodfinegroup.com/topic-co-location-methodology) — detailed analytical methodology behind the investment thesis
 
 ---
 

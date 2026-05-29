@@ -16,17 +16,17 @@ paired_with: topic-property-ledger-technology.es.md
 cites: []
 ---
 
-Each asset maintained under the Direct-Hold framework has an associated property ledger. The ledger is the authoritative record of fractional equity assignments, asset financial events, and transfer history. Woodfine Management Corp. holds legal custody of the ledger; PointSav Digital Systems maintains the technical infrastructure as the contracted technology provider.
+Each asset maintained under the [[topic-direct-hold-framework|Direct-Hold framework]] has an associated property ledger. The ledger is the authoritative record of fractional equity assignments, asset financial events, and transfer history. Woodfine Management Corp. holds legal custody of the ledger under the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]]; PointSav Digital Systems maintains the technical infrastructure as the contracted technology provider under the [[topic-technology-services|technology services agreement]].
 
 ## What the ledger records
 
 The property ledger captures three categories of information:
 
-**Fractional equity assignments.** The ledger records who holds what percentage of the named asset at any point in time. Each investor's position is stated as a percentage of the specific property — not a share in a fund or a proportional claim on a pool.
+**Fractional equity assignments.** The ledger records who holds what percentage of the named asset at any point in time. Each investor's position is stated as a percentage of the specific property — not a share in a fund or a proportional claim on a pool. Each fractional holding is constituted as an [[topic-investment-units|investment unit]] in the named asset.
 
 **Asset financial events.** Distributions, debt service transactions, appraisals, and other financial events affecting the asset are recorded in the ledger with timestamps and amounts. The record is append-only for operational entries; no prior financial event record can be overwritten.
 
-**Transfer history.** Each peer-to-peer equity transfer is recorded with the timestamp of the transaction and the identities of the transferring and acquiring parties. The ledger maintains a complete chain of title from the asset's initial equity issuance.
+**Transfer history.** Each peer-to-peer equity transfer is recorded with the timestamp of the transaction and the identities of the transferring and acquiring parties, consistent with the [[topic-equity-transfer-model|Equity Transfer Model]]. The ledger maintains a complete chain of title from the asset's initial equity issuance.
 
 ## Custody and control
 
@@ -49,6 +49,7 @@ The property ledger is a cryptographic record maintained by the corporate entity
 - [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] — WMC's obligations as the data custodian of the property ledger
 - [[topic-data-governance|Data Governance]] — how personal and operational data are handled under WMC's custody framework
 - [[topic-vendor-customer-model|Vendor-Customer Model]] — the services relationship under which PointSav maintains the technical infrastructure
+- [WORM Ledger Architecture](https://documentation.pointsav.com/infrastructure/worm-ledger-architecture) — the underlying ledger architecture referenced in this article
 
 ---
 

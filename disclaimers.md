@@ -13,16 +13,17 @@ editor: pointsav-engineering
 
 Nothing in this wiki constitutes investment advice, a solicitation to buy or sell any
 security, or an offer to participate in any investment product. Articles describe the
-structural and legal characteristics of Woodfine Management Corp.'s frameworks as
-reference material for institutional professionals.
+structural and legal characteristics of Woodfine Management Corp.'s frameworks — including
+the [[topic-direct-hold-framework|Direct-Hold framework]] and related governance models —
+as reference material for institutional professionals.
 
 ## Forward-looking statements
 
 Some articles describe planned or intended features of corporate structures. These
 forward-looking statements are subject to material risks and uncertainties. Actual
 outcomes may differ. Forward-looking language is marked with terms such as "planned,"
-"intended," "may," or "target" in accordance with continuous-disclosure requirements
-under NI 51-102 and OSC SN 51-721.
+"intended," "may," or "target" in accordance with [[topic-continuous-disclosure|continuous-disclosure]] requirements
+under NI 51-102 and OSC SN 51-721, and consistent with the [[topic-regulatory-posture|regulatory posture]] of the issuer.
 
 ## Accuracy
 

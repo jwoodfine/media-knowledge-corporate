@@ -10,15 +10,17 @@ editor: pointsav-engineering
 ---
 
 This wiki is the corporate reference for Woodfine Management Corp.'s legal architectures,
-economic models, and fiduciary compliance protocols. It is maintained by Woodfine Management
-Corp. staff and is intended for institutional finance professionals — investment bankers,
-asset managers, portfolio managers, and auditors reviewing Woodfine holdings and structures.
+economic models, and fiduciary compliance protocols — including the [[topic-direct-hold-framework|Direct-Hold framework]],
+the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]], and the [[topic-corporate-structure|corporate structure]]
+within which WMC operates. It is maintained by Woodfine Management Corp. staff and is intended
+for institutional finance professionals — investment bankers, asset managers, portfolio managers,
+and auditors reviewing Woodfine holdings and structures.
 
 ## Editorial standards
 
 Articles follow Bloomberg and Financial Times institutional register. Claims are precise and
 consequence-first. Marketing vocabulary and AI-product language do not appear. Every article
-satisfies the continuous-disclosure posture required under NI 51-102 and OSC SN 51-721.
+satisfies the [[topic-continuous-disclosure|continuous-disclosure]] posture required under NI 51-102 and OSC SN 51-721.
 
 ## Content scope
 

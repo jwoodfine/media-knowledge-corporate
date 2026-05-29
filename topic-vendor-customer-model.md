@@ -16,17 +16,17 @@ paired_with: topic-vendor-customer-model.es.md
 cites: []
 ---
 
-PointSav Digital Systems occupies the vendor role; Woodfine Management Corp. occupies the customer role. PointSav delivers technology platform services — property ledger infrastructure, investor portal, software maintenance — and WMC directs platform requirements, holds data custody, and is solely accountable for investment and fiduciary decisions.
+PointSav Digital Systems occupies the vendor role; Woodfine Management Corp. occupies the customer role within the [[topic-corporate-structure|Woodfine corporate structure]]. PointSav delivers technology platform services — [[topic-property-ledger-technology|property ledger]] infrastructure, investor portal, software maintenance — and WMC directs platform requirements, holds data custody under the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]], and is solely accountable for investment and fiduciary decisions affecting [[topic-direct-hold-framework|Direct-Hold]] assets.
 
 ## Vendor obligations
 
-PointSav's obligations are operational and technical. The vendor is responsible for platform availability, software integrity, security posture, and ledger data consistency. PointSav does not exercise discretion over what data is stored, how it is classified, or how it is used — those decisions belong to WMC as the data custodian.
+PointSav's obligations under the [[topic-technology-services|technology services agreement]] are operational and technical. The vendor is responsible for platform availability, software integrity, security posture, and ledger data consistency. PointSav does not exercise discretion over what data is stored, how it is classified, or how it is used — those decisions belong to WMC as the data custodian.
 
 PointSav does not represent WMC to investors or regulators. PointSav does not provide compliance advice, investment advice, or fiduciary services. The vendor's scope ends at the platform boundary.
 
 ## Customer rights
 
-WMC retains full legal custody of all data processed by the platform. If WMC engages a different technology provider, the property ledger data is portable — it does not remain with PointSav. The architecture is designed so that WMC can reconstruct full operational control of the ledger from exported data without dependency on any specific software implementation.
+WMC retains full legal custody of all data processed by the platform — see [[topic-data-governance|Data Governance]] for the full custody framework. If WMC engages a different technology provider, the property ledger data is portable — it does not remain with PointSav. The architecture is designed so that WMC can reconstruct full operational control of the ledger from exported data without dependency on any specific software implementation.
 
 WMC directs the platform requirements. PointSav builds and maintains to those requirements. The customer determines what the platform does; the vendor determines how.
 
