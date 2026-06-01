@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Redemption Elimination"
 slug: topic-redemption-elimination
+aliases:
+  - topic-redemption-elimination
 short_description: "Structural elimination of investor redemption rights, removing the cash-reserve drag and run-mechanics risk inherent to pooled real estate vehicles."
 category: governance
 type: reference

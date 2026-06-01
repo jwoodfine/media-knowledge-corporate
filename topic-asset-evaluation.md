@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Asset Evaluation Protocol"
 slug: topic-asset-evaluation
+aliases:
+  - topic-asset-evaluation
 short_description: "How the co-location ranking matrix drives WMC's commercial asset acquisition targeting: tier score as the entry criterion, independent GIS analysis as the verification method."
 category: operations
 type: reference

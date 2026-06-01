@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Tecnología del Registro de Propiedades"
 slug: topic-property-ledger-technology
+aliases:
+  - topic-property-ledger-technology
 short_description: "Infraestructura tecnológica subyacente a cada registro de propiedades de WMC: registro criptográfico de participaciones fraccionarias de capital, eventos del activo e historial de transferencias, mantenido por PointSav Digital Systems bajo la custodia de WMC."
 category: operations
 type: reference

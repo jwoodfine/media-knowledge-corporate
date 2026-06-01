@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Continuous Disclosure Obligations"
 slug: topic-continuous-disclosure
+aliases:
+  - topic-continuous-disclosure
 short_description: "NI 51-102 reporting requirements applicable to Woodfine Capital Projects Inc., including annual information form, MD&A, material change reports, and OSC SN 51-721 electronic filing."
 category: operations
 type: reference

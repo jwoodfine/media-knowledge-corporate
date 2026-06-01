@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Data Governance"
 slug: topic-data-governance
+aliases:
+  - topic-data-governance
 short_description: "WMC's data custody framework: who holds what data, where, and under what obligations — consistent with the Fiduciary Data Mandate and PIPEDA requirements."
 category: operations
 type: reference

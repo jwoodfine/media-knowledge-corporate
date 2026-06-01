@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Marco de Tenencia Directa"
 slug: topic-direct-hold-framework
+aliases:
+  - topic-direct-hold-framework
 category: governance
 type: reference
 quality: complete

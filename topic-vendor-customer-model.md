@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Vendor-Customer Model"
 slug: topic-vendor-customer-model
+aliases:
+  - topic-vendor-customer-model
 short_description: "Structural separation between PointSav Digital Systems as technology vendor and Woodfine Management Corp. as commercial real estate operator and technology customer."
 category: company
 type: reference

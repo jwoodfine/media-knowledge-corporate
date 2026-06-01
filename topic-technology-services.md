@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Technology Services Agreement"
 slug: topic-technology-services
+aliases:
+  - topic-technology-services
 short_description: "Structure of the services agreement under which PointSav Digital Systems provides platform infrastructure to Woodfine Management Corp. as a contracted technology vendor."
 category: operations
 type: reference

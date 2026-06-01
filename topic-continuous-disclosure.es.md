@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Obligaciones de Divulgación Continua"
 slug: topic-continuous-disclosure
+aliases:
+  - topic-continuous-disclosure
 short_description: "Requisitos de reporte del NI 51-102 aplicables a Woodfine Capital Projects Inc., incluyendo el formulario de información anual, el MD&A, los informes de cambios materiales y la presentación electrónica bajo el Aviso del Personal OSC 51-721."
 category: operations
 type: reference

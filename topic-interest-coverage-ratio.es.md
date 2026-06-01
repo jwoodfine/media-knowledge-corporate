@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Ratio de Cobertura de Intereses"
 slug: topic-interest-coverage-ratio
+aliases:
+  - topic-interest-coverage-ratio
 category: root
 type: reference
 quality: complete

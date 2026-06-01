@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Corporate Structure"
 slug: topic-corporate-structure
+aliases:
+  - topic-corporate-structure
 short_description: "Three-entity structure under Woodfine Capital Projects Inc., separating the technology vendor from the commercial real estate operator."
 category: company
 type: reference

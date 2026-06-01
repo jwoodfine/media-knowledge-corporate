@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Estructura Corporativa"
 slug: topic-corporate-structure
+aliases:
+  - topic-corporate-structure
 short_description: "Estructura de tres entidades bajo Woodfine Capital Projects Inc., que separa al proveedor de tecnología del operador inmobiliario comercial."
 category: company
 type: reference

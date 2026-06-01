@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Gobernanza de Datos"
 slug: topic-data-governance
+aliases:
+  - topic-data-governance
 short_description: "El marco de custodia de datos de WMC: quién posee qué datos, dónde y bajo qué obligaciones, coherente con el Mandato Fiduciario de Datos y los requisitos de PIPEDA."
 category: operations
 type: reference

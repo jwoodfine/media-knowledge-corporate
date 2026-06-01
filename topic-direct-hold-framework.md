@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Direct-Hold Framework"
 slug: topic-direct-hold-framework
+aliases:
+  - topic-direct-hold-framework
 short_description: "A legal structure that issues asset-specific equity: each investor holds a fractional interest in a single named property, not a share in a commingled pool, eliminating cross-asset contagion."
 category: governance
 type: reference

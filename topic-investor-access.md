@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Investor Access"
 slug: topic-investor-access
+aliases:
+  - topic-investor-access
 short_description: "How investors in Direct-Hold assets access position data, financial reports, and ledger records through the WMC investor portal."
 category: operations
 type: reference

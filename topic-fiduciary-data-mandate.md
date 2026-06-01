@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Fiduciary Data Mandate"
 slug: topic-fiduciary-data-mandate
+aliases:
+  - topic-fiduciary-data-mandate
 short_description: "Custody and sovereignty requirement that the corporate entity holds physical control of the ledger hardware and cryptographic keys, not a third-party custodian."
 category: governance
 type: reference

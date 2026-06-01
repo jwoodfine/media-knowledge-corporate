@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Postura Regulatoria"
 slug: topic-regulatory-posture
+aliases:
+  - topic-regulatory-posture
 short_description: "Woodfine Capital Projects Inc. opera bajo el régimen de divulgación continua del NI 51-102 y el Aviso del Personal de la OSC 51-721; todos los materiales públicos son revisables bajo este régimen."
 category: company
 type: reference

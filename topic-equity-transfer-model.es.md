@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Modelo de Transferencia de Capital"
 slug: topic-equity-transfer-model
+aliases:
+  - topic-equity-transfer-model
 category: root
 type: reference
 quality: complete

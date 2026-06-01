@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Co-location Investment Thesis"
 slug: topic-co-location-investment-thesis
+aliases:
+  - topic-co-location-investment-thesis
 short_description: "The investment thesis that commercial nodes where institutional-grade retailers converge within defined catchment radii present objectively verifiable, superior site characteristics."
 category: company
 type: reference

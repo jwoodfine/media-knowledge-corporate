@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Mandato de Datos Fiduciarios"
 slug: topic-fiduciary-data-mandate
+aliases:
+  - topic-fiduciary-data-mandate
 category: root
 type: reference
 quality: complete

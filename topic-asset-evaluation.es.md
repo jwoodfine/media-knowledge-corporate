@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Protocolo de Evaluación de Activos"
 slug: topic-asset-evaluation
+aliases:
+  - topic-asset-evaluation
 short_description: "Cómo la matriz de clasificación por co-ubicación orienta la selección de activos comerciales de WMC: la puntuación por niveles como criterio de entrada, el análisis GIS independiente como método de verificación."
 category: operations
 type: reference

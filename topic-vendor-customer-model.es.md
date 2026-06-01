@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Modelo Proveedor-Cliente"
 slug: topic-vendor-customer-model
+aliases:
+  - topic-vendor-customer-model
 short_description: "Separación estructural entre PointSav Digital Systems como proveedor de tecnología y Woodfine Management Corp. como operador inmobiliario comercial y cliente tecnológico."
 category: company
 type: reference

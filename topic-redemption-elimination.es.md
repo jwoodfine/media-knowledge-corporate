@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Eliminación de Reembolsos"
 slug: topic-redemption-elimination
+aliases:
+  - topic-redemption-elimination
 category: root
 type: reference
 quality: complete

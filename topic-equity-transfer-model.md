@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Equity Transfer Model"
 slug: topic-equity-transfer-model
+aliases:
+  - topic-equity-transfer-model
 short_description: "Peer-to-peer transfer mechanism that allows investors to exit their position directly to willing counterparties, without requiring a liquidity pool or corporate buyback."
 category: governance
 type: reference

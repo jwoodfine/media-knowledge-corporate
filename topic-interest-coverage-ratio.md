@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Interest Coverage Ratio"
 slug: topic-interest-coverage-ratio
+aliases:
+  - topic-interest-coverage-ratio
 short_description: "Debt-service metric requiring operating income to cover interest charges by at least 1.2×, balancing borrowing capacity against covenant compliance."
 category: reference
 type: reference

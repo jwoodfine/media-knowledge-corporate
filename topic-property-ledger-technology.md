@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Property Ledger Technology"
 slug: topic-property-ledger-technology
+aliases:
+  - topic-property-ledger-technology
 short_description: "Technology infrastructure underlying each WMC property ledger: cryptographic record of fractional equity holdings, asset events, and transfer history, maintained by PointSav Digital Systems under WMC custody."
 category: operations
 type: reference
