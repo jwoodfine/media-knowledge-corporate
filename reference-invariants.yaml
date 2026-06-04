@@ -7,8 +7,8 @@
 heading: "Holding structure"
 items:
   - text: "A vacancy at one asset cannot propagate to the investor's equity in a different asset. Isolation is structural, not contractual."
-    link_slug: direct-hold-framework
+    link_slug: topic-direct-hold-framework
   - text: "No redemption queue exists. An investor seeking liquidity locates a willing counterparty independently of the corporate entity."
-    link_slug: redemption-elimination
+    link_slug: topic-redemption-elimination
   - text: "At 1.2x interest coverage, operating income structurally exceeds debt service — the margin that prevents foreclosure cascade."
-    link_slug: interest-coverage-ratio
+    link_slug: topic-interest-coverage-ratio
