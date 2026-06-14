@@ -7,6 +7,7 @@ aliases:
 short_description: "Peer-to-peer transfer mechanism that allows investors to exit their position directly to willing counterparties, without requiring a liquidity pool or corporate buyback."
 category: governance
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

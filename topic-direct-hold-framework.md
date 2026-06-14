@@ -7,6 +7,7 @@ aliases:
 short_description: "A legal structure that issues asset-specific equity: each investor holds a fractional interest in a single named property, not a share in a commingled pool, eliminating cross-asset contagion."
 category: governance
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

@@ -7,6 +7,7 @@ aliases:
 short_description: "Woodfine Capital Projects Inc. operates under the continuous-disclosure regime of NI 51-102 and OSC Staff Notice 51-721; all public materials are reviewable under this regime."
 category: company
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

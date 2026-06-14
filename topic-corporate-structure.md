@@ -7,6 +7,7 @@ aliases:
 short_description: "Three-entity structure under Woodfine Capital Projects Inc., separating the technology vendor from the commercial real estate operator."
 category: company
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

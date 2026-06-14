@@ -7,6 +7,7 @@ aliases:
 short_description: "Structural separation between PointSav Digital Systems as technology vendor and Woodfine Management Corp. as commercial real estate operator and technology customer."
 category: company
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

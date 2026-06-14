@@ -7,6 +7,7 @@ aliases:
 short_description: "Debt-service metric requiring operating income to cover interest charges by at least 1.2×, balancing borrowing capacity against covenant compliance."
 category: reference
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

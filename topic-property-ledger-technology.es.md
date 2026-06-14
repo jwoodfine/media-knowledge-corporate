@@ -7,6 +7,7 @@ aliases:
 short_description: "Infraestructura tecnológica subyacente a cada registro de propiedades de WMC: registro criptográfico de participaciones fraccionarias de capital, eventos del activo e historial de transferencias, mantenido por PointSav Digital Systems bajo la custodia de WMC."
 category: operations
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

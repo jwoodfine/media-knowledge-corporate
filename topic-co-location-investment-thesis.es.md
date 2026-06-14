@@ -7,6 +7,7 @@ aliases:
 short_description: "La tesis de inversión según la cual los nodos comerciales donde convergen minoristas de grado institucional dentro de radios de influencia definidos presentan características de sitio objetivamente verificables y superiores."
 category: company
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

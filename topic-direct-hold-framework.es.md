@@ -6,6 +6,7 @@ aliases:
   - topic-direct-hold-framework
 category: governance
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

@@ -7,6 +7,7 @@ aliases:
 short_description: "How investors in Direct-Hold assets access position data, financial reports, and ledger records through the WMC investor portal."
 category: operations
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

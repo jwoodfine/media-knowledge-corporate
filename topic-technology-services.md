@@ -7,6 +7,7 @@ aliases:
 short_description: "Structure of the services agreement under which PointSav Digital Systems provides platform infrastructure to Woodfine Management Corp. as a contracted technology vendor."
 category: operations
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

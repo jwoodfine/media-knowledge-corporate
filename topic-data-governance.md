@@ -7,6 +7,7 @@ aliases:
 short_description: "WMC's data custody framework: who holds what data, where, and under what obligations — consistent with the Fiduciary Data Mandate and PIPEDA requirements."
 category: operations
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

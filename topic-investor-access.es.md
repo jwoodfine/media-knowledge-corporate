@@ -7,6 +7,7 @@ aliases:
 short_description: "Cómo los inversores en activos de Tenencia Directa acceden a los datos de posición, informes financieros y registros del libro a través del portal de inversores de WMC."
 category: operations
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

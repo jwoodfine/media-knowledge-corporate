@@ -7,6 +7,7 @@ aliases:
 short_description: "Requisitos de reporte del NI 51-102 aplicables a Woodfine Capital Projects Inc., incluyendo el formulario de información anual, el MD&A, los informes de cambios materiales y la presentación electrónica bajo el Aviso del Personal OSC 51-721."
 category: operations
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

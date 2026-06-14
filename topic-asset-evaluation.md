@@ -7,6 +7,7 @@ aliases:
 short_description: "How the co-location ranking matrix drives WMC's commercial asset acquisition targeting: tier score as the entry criterion, independent GIS analysis as the verification method."
 category: operations
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

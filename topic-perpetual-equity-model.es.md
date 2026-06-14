@@ -3,6 +3,8 @@ schema: foundry-doc-v1
 title: "Modelo de Capital Perpetuo"
 slug: topic-perpetual-equity-model
 category: governance
+type: topic
+content_type: topic
 status: active
 quality: complete
 language_protocol: TRANSLATE-ES

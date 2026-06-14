@@ -6,6 +6,7 @@ aliases:
   - topic-interest-coverage-ratio
 category: root
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

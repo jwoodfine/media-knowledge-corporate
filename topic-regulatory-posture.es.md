@@ -7,6 +7,7 @@ aliases:
 short_description: "Woodfine Capital Projects Inc. opera bajo el régimen de divulgación continua del NI 51-102 y el Aviso del Personal de la OSC 51-721; todos los materiales públicos son revisables bajo este régimen."
 category: company
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

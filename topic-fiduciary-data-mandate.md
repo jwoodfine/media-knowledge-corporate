@@ -7,6 +7,7 @@ aliases:
 short_description: "Custody and sovereignty requirement that the corporate entity holds physical control of the ledger hardware and cryptographic keys, not a third-party custodian."
 category: governance
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

@@ -7,6 +7,7 @@ aliases:
 short_description: "Estructura de tres entidades bajo Woodfine Capital Projects Inc., que separa al proveedor de tecnología del operador inmobiliario comercial."
 category: company
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

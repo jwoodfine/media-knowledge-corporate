@@ -7,6 +7,7 @@ aliases:
 short_description: "Technology infrastructure underlying each WMC property ledger: cryptographic record of fractional equity holdings, asset events, and transfer history, maintained by PointSav Digital Systems under WMC custody."
 category: operations
 type: reference
+content_type: topic
 quality: complete
 status: active
 audience: public

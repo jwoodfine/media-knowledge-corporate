@@ -3,6 +3,8 @@ schema: foundry-doc-v1
 title: "Investment Units"
 slug: topic-investment-units
 category: governance
+type: topic
+content_type: topic
 status: active
 quality: complete
 language_protocol: PROSE-TOPIC
