@@ -50,6 +50,7 @@ A high tier score is a necessary but not sufficient condition for acquisition.
 - [[topic-asset-evaluation|Asset Evaluation Protocol]] — how the tier score functions as an entry criterion in WMC's acquisition process
 - [[topic-corporate-structure|Corporate Structure]] — the entities responsible for executing acquisitions
 - [[topic-direct-hold-framework|Direct-Hold Framework]] — the ownership structure applied to acquired assets
+- [[topic-perpetual-equity-model|Perpetual Equity Model]] — the holding framework applied to assets that pass the co-location screening
 - [Co-Location Methodology](https://projects.woodfinegroup.com/topic-co-location-methodology) — detailed analytical methodology behind the investment thesis
 
 ---
