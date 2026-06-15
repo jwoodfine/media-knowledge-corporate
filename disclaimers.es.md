@@ -1,5 +1,6 @@
 ---
 schema: foundry-doc-v1
+content_type: topic
 title: "Avisos Legales"
 slug: disclaimers
 category: governance
