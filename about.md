@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-content_type: topic
+content_type: page
 title: "About This Wiki"
 slug: about
 category: governance
