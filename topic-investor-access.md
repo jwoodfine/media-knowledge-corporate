@@ -19,7 +19,7 @@ paired_with: topic-investor-access.es.md
 cites: []
 ---
 
-An investor in a WMC [[topic-direct-hold-framework|Direct-Hold]] asset holds a position in a specific named property. Access to position data, financial reports, and transaction records is provided through the investor portal operated by Woodfine Management Corp. The portal reflects the investor's [[topic-property-ledger-technology|ledger]] position — equity percentage, financial event history, and transfer records — for each asset in which they hold a position. The position is structured as a fractional [[topic-investment-units|investment unit]] in the named asset.
+An investor in a WMC [[topic-direct-hold-framework|Direct-Hold]] asset holds a position in a specific named property. Access to position data, financial reports, and transaction records is provided through the investor portal operated by MCorp. The portal reflects the investor's [[topic-property-ledger-technology|ledger]] position — equity percentage, financial event history, and transfer records — for each asset in which they hold a position. The position is structured as a fractional [[topic-investment-units|investment unit]] in the named asset.
 
 ## Key takeaways
 

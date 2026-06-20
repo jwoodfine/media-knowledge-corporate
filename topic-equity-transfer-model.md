@@ -29,7 +29,7 @@ Woodfine [[topic-direct-hold-framework|Direct-Hold]] equity transfers freely bet
 
 ## Freely transferable equity
 
-Woodfine Management Corp. issues freely transferable private equity in each isolated [[topic-property-ledger-technology|property ledger]]. "Freely transferable" means the holder may offer their interest to any willing counterparty without requiring corporate approval for the transfer itself. The corporate entity maintains the ledger but does not control who may acquire equity in it. Each unit of equity issued constitutes an [[topic-investment-units|investment unit]] in the named asset.
+MCorp issues freely transferable private equity in each isolated [[topic-property-ledger-technology|property ledger]]. "Freely transferable" means the holder may offer their interest to any willing counterparty without requiring corporate approval for the transfer itself. The corporate entity maintains the ledger but does not control who may acquire equity in it. Each unit of equity issued constitutes an [[topic-investment-units|investment unit]] in the named asset.
 
 This distinguishes the model from restricted-equity structures — common in private real estate vehicles — where the issuer retains right of first refusal, imposes transfer restrictions, or requires investor qualification re-approval on each transfer.
 

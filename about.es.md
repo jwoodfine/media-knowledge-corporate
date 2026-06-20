@@ -13,10 +13,10 @@ paired_with: about.md
 ---
 
 Esta wiki es la referencia corporativa de las arquitecturas jurídicas, modelos económicos y
-protocolos de cumplimiento fiduciario de Woodfine Management Corp. — incluido el
+protocolos de cumplimiento fiduciario de MCorp — incluido el
 [[topic-direct-hold-framework|Marco de Tenencia Directa]], el [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]]
 y la [[topic-corporate-structure|estructura corporativa]] en la que opera WMC. Es mantenida por el equipo
-de Woodfine Management Corp. y está destinada a profesionales de finanzas institucionales:
+de MCorp y está destinada a profesionales de finanzas institucionales:
 banqueros de inversión, gestores de activos, directores de cartera y auditores que revisen
 las estructuras y tenencias de Woodfine.
 

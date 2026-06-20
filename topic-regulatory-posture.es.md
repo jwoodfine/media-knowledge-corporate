@@ -23,7 +23,7 @@ Woodfine Capital Projects Inc. y sus subsidiarias — incluidas las entidades de
 
 ## Marco aplicable
 
-El Instrumento Nacional 51-102 (Obligaciones de Divulgación Continua) establece el régimen de reporte para los emisores reportantes con domicilio en Ontario. El instrumento rige los formularios de información anual, los informes de análisis y discusión de la administración, los informes de cambios materiales y los requisitos de estados financieros periódicos aplicables a Woodfine Capital Projects Inc. y Woodfine Management Corp.
+El Instrumento Nacional 51-102 (Obligaciones de Divulgación Continua) establece el régimen de reporte para los emisores reportantes con domicilio en Ontario. El instrumento rige los formularios de información anual, los informes de análisis y discusión de la administración, los informes de cambios materiales y los requisitos de estados financieros periódicos aplicables a Woodfine Capital Projects Inc. y MCorp
 
 El Aviso del Personal de la OSC 51-721 (Entrega Electrónica de Documentos) se aplica a los documentos de divulgación presentados y entregados electrónicamente. Todos los depósitos requeridos se realizan a través de SEDAR+.
 

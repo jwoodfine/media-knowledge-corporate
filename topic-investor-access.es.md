@@ -19,7 +19,7 @@ paired_with: topic-investor-access.md
 cites: []
 ---
 
-Un inversor en un activo de [[topic-direct-hold-framework|Tenencia Directa]] de WMC posee una posición en una propiedad específica y nombrada. El acceso a los datos de posición, informes financieros y registros de transacciones se proporciona a través del portal de inversores operado por Woodfine Management Corp. El portal refleja la posición del inversor en el [[topic-property-ledger-technology|registro]] —porcentaje de capital, historial de eventos financieros y registros de transferencias— para cada activo en el que mantiene una posición. La posición se estructura como una [[topic-investment-units|unidad de inversión]] fraccional en el activo nombrado.
+Un inversor en un activo de [[topic-direct-hold-framework|Tenencia Directa]] de WMC posee una posición en una propiedad específica y nombrada. El acceso a los datos de posición, informes financieros y registros de transacciones se proporciona a través del portal de inversores operado por MCorp. El portal refleja la posición del inversor en el [[topic-property-ledger-technology|registro]] —porcentaje de capital, historial de eventos financieros y registros de transferencias— para cada activo en el que mantiene una posición. La posición se estructura como una [[topic-investment-units|unidad de inversión]] fraccional en el activo nombrado.
 
 ## Datos de posición
 

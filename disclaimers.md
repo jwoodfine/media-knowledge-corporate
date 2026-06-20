@@ -14,7 +14,7 @@ editor: pointsav-engineering
 
 Nothing in this wiki constitutes investment advice, a solicitation to buy or sell any
 security, or an offer to participate in any investment product. Articles describe the
-structural and legal characteristics of Woodfine Management Corp.'s frameworks — including
+structural and legal characteristics of MCorp's frameworks — including
 the [[topic-direct-hold-framework|Direct-Hold framework]] and related governance models —
 as reference material for institutional professionals.
 

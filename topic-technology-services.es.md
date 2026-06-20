@@ -4,7 +4,7 @@ title: "Acuerdo de Servicios Tecnológicos"
 slug: topic-technology-services
 aliases:
   - topic-technology-services
-short_description: "Estructura del acuerdo de servicios bajo el cual PointSav Digital Systems proporciona infraestructura de plataforma a Woodfine Management Corp. como proveedor de tecnología contratado."
+short_description: "Estructura del acuerdo de servicios bajo el cual PointSav Digital Systems proporciona infraestructura de plataforma a MCorp como proveedor de tecnología contratado."
 category: operations
 type: reference
 content_type: topic
@@ -19,7 +19,7 @@ paired_with: topic-technology-services.md
 cites: []
 ---
 
-PointSav Digital Systems presta servicios tecnológicos a Woodfine Management Corp. en virtud de un acuerdo contractual de servicios que implementa el [[topic-vendor-customer-model|modelo proveedor-cliente]]. El acuerdo define el alcance del compromiso de PointSav, las obligaciones en materia de datos que PointSav mantiene hacia WMC y los límites que impiden que la relación de servicios tecnológicos se extienda a funciones de gestión de inversiones o asesoramiento fiduciario. Las obligaciones de PointSav operan junto al [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] bajo el cual WMC conserva la custodia de todos los datos del libro contable.
+PointSav Digital Systems presta servicios tecnológicos a MCorp en virtud de un acuerdo contractual de servicios que implementa el [[topic-vendor-customer-model|modelo proveedor-cliente]]. El acuerdo define el alcance del compromiso de PointSav, las obligaciones en materia de datos que PointSav mantiene hacia WMC y los límites que impiden que la relación de servicios tecnológicos se extienda a funciones de gestión de inversiones o asesoramiento fiduciario. Las obligaciones de PointSav operan junto al [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] bajo el cual WMC conserva la custodia de todos los datos del libro contable.
 
 ## Estructura del acuerdo
 

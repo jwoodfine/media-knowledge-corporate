@@ -23,7 +23,7 @@ El capital de [[topic-direct-hold-framework|Tenencia Directa]] de Woodfine se tr
 
 ## Capital libremente transferible
 
-Woodfine Management Corp. emite capital privado libremente transferible en cada [[topic-property-ledger-technology|libro contable de propiedad]] aislado. "Libremente transferible" significa que el titular puede ofrecer su interés a cualquier contraparte dispuesta sin requerir aprobación corporativa para la transferencia en sí. La entidad corporativa mantiene el libro contable pero no controla quién puede adquirir capital en él. Cada unidad de capital emitida constituye una [[topic-investment-units|unidad de inversión]] en el activo nombrado.
+MCorp emite capital privado libremente transferible en cada [[topic-property-ledger-technology|libro contable de propiedad]] aislado. "Libremente transferible" significa que el titular puede ofrecer su interés a cualquier contraparte dispuesta sin requerir aprobación corporativa para la transferencia en sí. La entidad corporativa mantiene el libro contable pero no controla quién puede adquirir capital en él. Cada unidad de capital emitida constituye una [[topic-investment-units|unidad de inversión]] en el activo nombrado.
 
 Esto distingue el modelo de las estructuras de capital restringido — comunes en los vehículos inmobiliarios privados — donde el emisor retiene el derecho de primera opción, impone restricciones de transferencia, o requiere una nueva aprobación de calificación del inversor en cada transferencia.
 

@@ -19,7 +19,7 @@ paired_with: topic-property-ledger-technology.es.md
 cites: []
 ---
 
-Each asset maintained under the [[topic-direct-hold-framework|Direct-Hold framework]] has an associated property ledger. The ledger is the authoritative record of fractional equity assignments, asset financial events, and transfer history. Woodfine Management Corp. holds legal custody of the ledger under the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]]; PointSav Digital Systems maintains the technical infrastructure as the contracted technology provider under the [[topic-technology-services|technology services agreement]].
+Each asset maintained under the [[topic-direct-hold-framework|Direct-Hold framework]] has an associated property ledger. The ledger is the authoritative record of fractional equity assignments, asset financial events, and transfer history. MCorp holds legal custody of the ledger under the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]]; PointSav Digital Systems maintains the technical infrastructure as the contracted technology provider under the [[topic-technology-services|technology services agreement]].
 
 ## Key takeaways
 

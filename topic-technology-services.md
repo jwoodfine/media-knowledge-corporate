@@ -4,7 +4,7 @@ title: "Technology Services Agreement"
 slug: topic-technology-services
 aliases:
   - topic-technology-services
-short_description: "Structure of the services agreement under which PointSav Digital Systems provides platform infrastructure to Woodfine Management Corp. as a contracted technology vendor."
+short_description: "Structure of the services agreement under which PointSav Digital Systems provides platform infrastructure to MCorp as a contracted technology vendor."
 category: operations
 type: reference
 content_type: topic
@@ -19,7 +19,7 @@ paired_with: topic-technology-services.es.md
 cites: []
 ---
 
-PointSav Digital Systems provides technology services to Woodfine Management Corp. under a contractual services agreement implementing the [[topic-vendor-customer-model|vendor-customer model]]. The agreement defines the scope of PointSav's engagement, the data obligations PointSav holds toward WMC, and the boundaries that prevent the technology services relationship from crossing into investment management or fiduciary advisory functions. PointSav's obligations operate alongside the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] under which WMC retains custody of all ledger data.
+PointSav Digital Systems provides technology services to MCorp under a contractual services agreement implementing the [[topic-vendor-customer-model|vendor-customer model]]. The agreement defines the scope of PointSav's engagement, the data obligations PointSav holds toward WMC, and the boundaries that prevent the technology services relationship from crossing into investment management or fiduciary advisory functions. PointSav's obligations operate alongside the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] under which WMC retains custody of all ledger data.
 
 ## Key takeaways
 

@@ -4,7 +4,7 @@ title: "Vendor-Customer Model"
 slug: topic-vendor-customer-model
 aliases:
   - topic-vendor-customer-model
-short_description: "Structural separation between PointSav Digital Systems as technology vendor and Woodfine Management Corp. as commercial real estate operator and technology customer."
+short_description: "Structural separation between PointSav Digital Systems as technology vendor and MCorp as commercial real estate operator and technology customer."
 category: company
 type: reference
 content_type: topic
@@ -19,7 +19,7 @@ paired_with: topic-vendor-customer-model.es.md
 cites: []
 ---
 
-PointSav Digital Systems occupies the vendor role; Woodfine Management Corp. occupies the customer role within the [[topic-corporate-structure|Woodfine corporate structure]]. PointSav delivers technology platform services — [[topic-property-ledger-technology|property ledger]] infrastructure, investor portal, software maintenance — and WMC directs platform requirements, holds data custody under the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]], and is solely accountable for investment and fiduciary decisions affecting [[topic-direct-hold-framework|Direct-Hold]] assets.
+PointSav Digital Systems occupies the vendor role; MCorp occupies the customer role within the [[topic-corporate-structure|Woodfine corporate structure]]. PointSav delivers technology platform services — [[topic-property-ledger-technology|property ledger]] infrastructure, investor portal, software maintenance — and WMC directs platform requirements, holds data custody under the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]], and is solely accountable for investment and fiduciary decisions affecting [[topic-direct-hold-framework|Direct-Hold]] assets.
 
 ## Key takeaways
 

@@ -20,13 +20,13 @@ see_also:
   - topic-property-ledger-technology
 ---
 
-Las unidades de inversión son los intereses de capital fraccional emitidos en cada activo real nombrado bajo el marco de [[topic-direct-hold-framework|Tenencia Directa]] de Woodfine Management Corp. Cada unidad de inversión representa un porcentaje de propiedad de la propiedad específica, no una participación en un fondo mancomunado ni una participación proporcional en una cartera.
+Las unidades de inversión son los intereses de capital fraccional emitidos en cada activo real nombrado bajo el marco de [[topic-direct-hold-framework|Tenencia Directa]] de MCorp. Cada unidad de inversión representa un porcentaje de propiedad de la propiedad específica, no una participación en un fondo mancomunado ni una participación proporcional en una cartera.
 
 Las unidades se registran en el [[topic-property-ledger-technology|libro contable de propiedad]] del activo nombrado. Son libremente transferibles a contrapartes dispuestas sin requerir aprobación corporativa. El [[topic-perpetual-equity-model|Modelo de Capital Perpetuo]] rige el horizonte de tenencia de estas unidades.
 
 ## Resumen
 
-Las unidades de inversión son instrumentos específicos de cada activo. Una unidad emitida en una propiedad nombrada no comporta ningún derecho ni genera exposición a ninguna otra propiedad dentro de la estructura de tenencia de Woodfine Management Corp. Este aislamiento es estructural: deriva del marco de Tenencia Directa, no de representaciones contractuales. Un inversor que mantiene unidades en tres activos distintos tiene tres posiciones separadas con tres libros contables, tres estados operativos y tres derechos de distribución independientes.
+Las unidades de inversión son instrumentos específicos de cada activo. Una unidad emitida en una propiedad nombrada no comporta ningún derecho ni genera exposición a ninguna otra propiedad dentro de la estructura de tenencia de MCorp. Este aislamiento es estructural: deriva del marco de Tenencia Directa, no de representaciones contractuales. Un inversor que mantiene unidades en tres activos distintos tiene tres posiciones separadas con tres libros contables, tres estados operativos y tres derechos de distribución independientes.
 
 ## Denominación y emisión
 

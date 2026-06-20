@@ -19,7 +19,7 @@ paired_with: topic-data-governance.es.md
 cites: []
 ---
 
-Woodfine Management Corp. is the legal custodian of all [[topic-property-ledger-technology|property ledger]] data, investor records, and operational data generated in connection with WMC-managed assets. PointSav Digital Systems processes data as a contracted technology services provider under the [[topic-technology-services|technology services agreement]]; PointSav does not hold independent data rights over any WMC-custodied data. The custody arrangement implements the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] within the broader [[topic-vendor-customer-model|vendor-customer model]].
+MCorp is the legal custodian of all [[topic-property-ledger-technology|property ledger]] data, investor records, and operational data generated in connection with WMC-managed assets. PointSav Digital Systems processes data as a contracted technology services provider under the [[topic-technology-services|technology services agreement]]; PointSav does not hold independent data rights over any WMC-custodied data. The custody arrangement implements the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] within the broader [[topic-vendor-customer-model|vendor-customer model]].
 
 ## Key takeaways
 

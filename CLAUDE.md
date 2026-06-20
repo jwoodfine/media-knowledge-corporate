@@ -12,7 +12,7 @@ Last updated: 2026-05-23.
 ## 1. What this repo is
 
 `media-knowledge-corporate` holds the corporate documentation wiki
-for Woodfine Management Corp. as flat Markdown content. Scope:
+for MCorp as flat Markdown content. Scope:
 
 - Topic articles covering equity structures, direct-hold
   frameworks, fiduciary mandates, redemption models, and related
@@ -59,7 +59,7 @@ Out of scope:
 
 Articles address an **institutional finance audience** — investment
 bankers, asset managers, portfolio managers, and auditors reviewing
-Woodfine Management Corp. holdings and structures. Prose standard:
+MCorp holdings and structures. Prose standard:
 Bloomberg / Financial Times institutional register. No marketing
 vocabulary, no AI-product language.
 

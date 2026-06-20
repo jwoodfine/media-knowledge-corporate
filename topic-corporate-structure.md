@@ -19,11 +19,11 @@ paired_with: topic-corporate-structure.es.md
 cites: []
 ---
 
-Woodfine Capital Projects Inc. is the Ontario parent company holding two wholly-owned subsidiaries: PointSav Digital Systems and Woodfine Management Corp. The three entities occupy distinct roles — ownership, technology, and commercial operations — that do not overlap. The arrangement implements the [[topic-vendor-customer-model|vendor-customer model]] at the corporate level and underpins the [[topic-direct-hold-framework|Direct-Hold framework]] under which WMC operates, with [[topic-fiduciary-data-mandate|fiduciary data custody]] held by WMC and platform services delivered by PointSav.
+Woodfine Capital Projects Inc. is the Ontario parent company holding two wholly-owned subsidiaries: PointSav Digital Systems and MCorp. The three entities occupy distinct roles — ownership, technology, and commercial operations — that do not overlap. The arrangement implements the [[topic-vendor-customer-model|vendor-customer model]] at the corporate level and underpins the [[topic-direct-hold-framework|Direct-Hold framework]] under which WMC operates, with [[topic-fiduciary-data-mandate|fiduciary data custody]] held by WMC and platform services delivered by PointSav.
 
 ## Key takeaways
 
-- Three entities occupy non-overlapping roles: Woodfine Capital Projects Inc. provides governance and ownership; PointSav Digital Systems delivers technology services; Woodfine Management Corp. holds assets, manages investors, and files continuous-disclosure documents.
+- Three entities occupy non-overlapping roles: Woodfine Capital Projects Inc. provides governance and ownership; PointSav Digital Systems delivers technology services; MCorp holds assets, manages investors, and files continuous-disclosure documents.
 - PointSav cannot make investment decisions and does not hold equity in managed properties; WMC cannot modify platform code — the separation is enforced at the corporate boundary, not by contract alone.
 - The design intent is that an operational failure at PointSav does not impair WMC's fiduciary function, and a financial event at WMC does not impair PointSav's platform operations.
 
@@ -39,7 +39,7 @@ PointSav does not hold equity in any managed property. PointSav does not make in
 
 ## Commercial operator
 
-Woodfine Management Corp. (WMC) is a wholly-owned subsidiary of Woodfine Capital Projects Inc. WMC holds legal title to commercial assets under the Direct-Hold framework. It manages investor relations, executes asset acquisitions, operates the property ledger as fiduciary data custodian, and files [[topic-continuous-disclosure|continuous-disclosure]] documents with the Ontario Securities Commission under NI 51-102.
+MCorp (Woodfine Management Corp.) is a wholly-owned subsidiary of Woodfine Capital Projects Inc. WMC holds legal title to commercial assets under the Direct-Hold framework. It manages investor relations, executes asset acquisitions, operates the property ledger as fiduciary data custodian, and files [[topic-continuous-disclosure|continuous-disclosure]] documents with the Ontario Securities Commission under NI 51-102.
 
 WMC is the entity with which investors transact. It is responsible for asset governance, investor communications, and the accuracy of property ledger records.
 

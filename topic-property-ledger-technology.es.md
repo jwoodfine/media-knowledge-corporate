@@ -19,7 +19,7 @@ paired_with: topic-property-ledger-technology.md
 cites: []
 ---
 
-Cada activo mantenido bajo el [[topic-direct-hold-framework|Marco de Tenencia Directa]] tiene un registro de propiedades asociado. El registro es el documento autoritativo de las asignaciones fraccionarias de capital, los eventos financieros del activo y el historial de transferencias. Woodfine Management Corp. ostenta la custodia legal del registro en virtud del [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]]; PointSav Digital Systems mantiene la infraestructura técnica en su calidad de proveedor de servicios tecnológicos contratado bajo el [[topic-technology-services|acuerdo de servicios tecnológicos]].
+Cada activo mantenido bajo el [[topic-direct-hold-framework|Marco de Tenencia Directa]] tiene un registro de propiedades asociado. El registro es el documento autoritativo de las asignaciones fraccionarias de capital, los eventos financieros del activo y el historial de transferencias. MCorp ostenta la custodia legal del registro en virtud del [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]]; PointSav Digital Systems mantiene la infraestructura técnica en su calidad de proveedor de servicios tecnológicos contratado bajo el [[topic-technology-services|acuerdo de servicios tecnológicos]].
 
 ## Qué registra el libro
 

@@ -13,7 +13,7 @@
 
 ## Sobre Este Repositorio
 
-Esta es la biblioteca pública de gobernanza y arquitectura financiera de Woodfine Management Corp. Documenta la lógica estructural del marco de inversión de Tenencia Directa — el modelo financiero que Woodfine utiliza para desarrollar, gestionar y mantener bienes raíces comerciales con certificación ambiental en América del Norte y Europa.
+Esta es la biblioteca pública de gobernanza y arquitectura financiera de MCorp. Documenta la lógica estructural del marco de inversión de Tenencia Directa — el modelo financiero que Woodfine utiliza para desarrollar, gestionar y mantener bienes raíces comerciales con certificación ambiental en América del Norte y Europa.
 
 El lector objetivo es un banquero de inversión, gestor de activos o auditor que desea comprender la estructura del vehículo de inversión, los controles de gobernanza y la arquitectura financiera antes de una primera conversación.
 
@@ -50,6 +50,6 @@ Los cuatro vehículos jurisdiccionales activos:
 
 ---
 
-*© 2026 Woodfine Management Corp. Todos los derechos reservados.*
+*© 2026 Woodfine Capital Projects Inc. Todos los derechos reservados.*
 
 *→ English version: [README.md](./README.md)*

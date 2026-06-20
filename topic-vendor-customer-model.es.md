@@ -4,7 +4,7 @@ title: "Modelo Proveedor-Cliente"
 slug: topic-vendor-customer-model
 aliases:
   - topic-vendor-customer-model
-short_description: "Separación estructural entre PointSav Digital Systems como proveedor de tecnología y Woodfine Management Corp. como operador inmobiliario comercial y cliente tecnológico."
+short_description: "Separación estructural entre PointSav Digital Systems como proveedor de tecnología y MCorp como operador inmobiliario comercial y cliente tecnológico."
 category: company
 type: reference
 content_type: topic
@@ -19,7 +19,7 @@ paired_with: topic-vendor-customer-model.md
 cites: []
 ---
 
-PointSav Digital Systems ocupa el rol de proveedor; Woodfine Management Corp. ocupa el rol de cliente dentro de la [[topic-corporate-structure|estructura corporativa de Woodfine]]. PointSav suministra servicios de plataforma tecnológica —infraestructura del [[topic-property-ledger-technology|registro de propiedades]], portal de inversores, mantenimiento de software— y WMC dirige los requisitos de la plataforma, ostenta la custodia de los datos en virtud del [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] y es la única responsable de las decisiones de inversión y fiduciarias que afectan a los activos de [[topic-direct-hold-framework|Tenencia Directa]].
+PointSav Digital Systems ocupa el rol de proveedor; MCorp ocupa el rol de cliente dentro de la [[topic-corporate-structure|estructura corporativa de Woodfine]]. PointSav suministra servicios de plataforma tecnológica —infraestructura del [[topic-property-ledger-technology|registro de propiedades]], portal de inversores, mantenimiento de software— y WMC dirige los requisitos de la plataforma, ostenta la custodia de los datos en virtud del [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] y es la única responsable de las decisiones de inversión y fiduciarias que afectan a los activos de [[topic-direct-hold-framework|Tenencia Directa]].
 
 ## Obligaciones del proveedor
 

@@ -17,7 +17,7 @@ paired_with: disclaimers.md
 Nada de lo que figura en esta wiki constituye asesoramiento de inversión, una solicitud de
 compra o venta de valores, ni una oferta de participación en ningún producto de inversión.
 Los artículos describen las características estructurales y jurídicas de los marcos de
-Woodfine Management Corp. — incluido el [[topic-direct-hold-framework|Marco de Tenencia Directa]] y
+MCorp — incluido el [[topic-direct-hold-framework|Marco de Tenencia Directa]] y
 los modelos de gobernanza relacionados — como material de referencia para profesionales institucionales.
 
 ## Declaraciones prospectivas

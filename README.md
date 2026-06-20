@@ -16,7 +16,7 @@
 
 ## About This Repository
 
-This is the public governance and financial architecture library for Woodfine Management Corp. It documents the structural logic of the Direct-Hold investment framework — the financial model that Woodfine uses to develop, manage, and hold environmentally certified commercial real estate across North America and Europe.
+This is the public governance and financial architecture library for MCorp. It documents the structural logic of the Direct-Hold investment framework — the financial model that Woodfine uses to develop, manage, and hold environmentally certified commercial real estate across North America and Europe.
 
 The intended reader is an investment banker, asset manager, or auditor who wants to understand the investment vehicle structure, governance controls, and financial architecture before a first conversation. This repository is the pre-read, not the pitch.
 
@@ -42,7 +42,7 @@ Woodfine does not operate investment funds. It operates Direct-Hold Solutions �
 
 ## Governance Structure
 
-Woodfine Capital Projects Inc. is the parent company. Woodfine Management Corp. is the Principal Manager executing the Direct-Hold Solutions. The Tripartite Management Structure — developer managing construction, compliance management, and a banking syndicate of asset managers — ensures arm's-length distance between the enterprise's development function and its investor relations function.
+Woodfine Capital Projects Inc. is the parent company. MCorp is the Principal Manager executing the Direct-Hold Solutions. The Tripartite Management Structure — developer managing construction, compliance management, and a banking syndicate of asset managers — ensures arm's-length distance between the enterprise's development function and its investor relations function.
 
 Each Direct-Hold Solution has its own Independent Oversight Committee. There is no global committee. This is intentional: each jurisdiction's fiduciary obligations are distinct, and a single global body creates the same structural conflation that fund structures create.
 
@@ -65,7 +65,7 @@ For institutional inquiries: **[woodfinegroup.com](https://woodfinegroup.com)**
 
 ---
 
-*© 2026 Woodfine Management Corp. All rights reserved.*
+*© 2026 Woodfine Capital Projects Inc. All rights reserved.*
 
 *→ Versión en español: [README.es.md](./README.es.md)*
 
@@ -74,4 +74,4 @@ For institutional inquiries: **[woodfinegroup.com](https://woodfinegroup.com)**
 
 *Copyright © 2026 Woodfine Capital Projects Inc. See [LICENSE](LICENSE) for terms.*
 
-*Woodfine Capital Projects™, Woodfine Management Corp™, PointSav Digital Systems™, Totebox Orchestration™, and Totebox Archive™ are trademarks of Woodfine Capital Projects Inc., used in Canada, the United States, Latin America, and Europe. All other trademarks are the property of their respective owners.*
+*Woodfine Capital Projects™, MCorp™, PointSav Digital Systems™, Totebox Orchestration™, Totebox Archive™, and Capability Geometry™ are trademarks of Woodfine Capital Projects Inc., used in Canada, the United States, Latin America, and Europe. All other trademarks are the property of their respective owners.*

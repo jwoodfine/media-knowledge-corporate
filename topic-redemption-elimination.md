@@ -47,7 +47,7 @@ The Direct-Hold architecture is immune to this failure mode. There is no queue t
 
 ## Investor implications
 
-The structural consequence for investors is explicit: Woodfine Management Corp. does not provide a redemption facility. Liquidity depends on the private market for the specific asset. The Direct-Hold structure carries a different risk profile than a pooled fund — the corporate entity makes no liquidity commitment it cannot fulfill, because no pooled capital exists from which such a commitment could be honored.
+The structural consequence for investors is explicit: MCorp does not provide a redemption facility. Liquidity depends on the private market for the specific asset. The Direct-Hold structure carries a different risk profile than a pooled fund — the corporate entity makes no liquidity commitment it cannot fulfill, because no pooled capital exists from which such a commitment could be honored.
 
 Without a redemption queue, no coordinated exit pressure can destabilize the portfolio. Long-term equity compounds without the structural drag of a cash reserve that earns less than the underlying assets, consistent with the [[topic-perpetual-equity-model|perpetual equity model]] applied to fractional investor holdings.
 
