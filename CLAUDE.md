@@ -5,14 +5,14 @@
 > then applies the repo-specific rules below. Read cold at
 > session start.
 
-Last updated: 2026-05-23.
+Last updated: 2026-06-26.
 
 ---
 
 ## 1. What this repo is
 
 `media-knowledge-corporate` holds the corporate documentation wiki
-for MCorp as flat Markdown content. Scope:
+for MCorp as structured Markdown content. Scope:
 
 - Topic articles covering equity structures, direct-hold
   frameworks, fiduciary mandates, redemption models, and related
@@ -24,16 +24,28 @@ for MCorp as flat Markdown content. Scope:
 
 This repo is **content only**. No code. No compiled binaries.
 
-Classification per workspace §8: **content-wiki repo** — flat
-collection, no project registry. The per-project-cluster
-mechanism does not apply; sessions operate as Root Claude.
+Classification per workspace §8: **content-wiki repo** — no project
+registry. The per-project-cluster mechanism does not apply.
 
-**Flat layout.** Unlike `media-knowledge-documentation`, this repo
-does not use category subdirectories. Articles live at repo root.
-The `topic-*` filename prefix is canonical for domain articles.
-Three additional root pages — `about.md`, `contact.md`,
-`disclaimers.md` — are institutional wiki pages (not topic articles)
-with `category: governance` frontmatter and are explicitly permitted.
+**Category layout (2026-06-26).** This repo was converted from flat
+layout to category directories as part of the jennifer-to-wiki
+backfill initiative (BRIEF-jennifer-to-wiki-backfill.md in
+project-editorial). Five categories with bilingual MOC pages:
+
+| Category | Scope |
+|---|---|
+| `investment/` | Direct-hold structure, equity model, vehicle types |
+| `governance/` | Regulatory posture, disclosure, investor access |
+| `economy/` | Distributist + cooperative economic foundations |
+| `research/` | Bloomberg/WSJ institutional research summaries |
+| `reference/` | Terminology, glossary expansions |
+
+Existing flat `topic-*.md` articles remain at root until migrated
+(confirmed migration plan: alias-based `git mv`, pending alias
+engine verification with Command). New articles go into categories.
+
+Three root institutional pages — `about.md`, `contact.md`,
+`disclaimers.md` — stay at root with `category: governance` frontmatter.
 
 Served at `corporate.woodfinegroup.com` via
 `local-knowledge-corporate.service` (port 9095).
