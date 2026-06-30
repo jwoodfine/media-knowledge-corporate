@@ -19,7 +19,7 @@ paired_with: topic-corporate-structure.es.md
 cites: []
 ---
 
-Woodfine Capital Projects Inc. is the Ontario parent company holding two wholly-owned subsidiaries: PointSav Digital Systems and MCorp. The three entities occupy distinct roles — ownership, technology, and commercial operations — that do not overlap. The arrangement implements the [[topic-vendor-customer-model|vendor-customer model]] at the corporate level and underpins the [[topic-direct-hold-framework|Direct-Hold framework]] under which WMC operates, with [[topic-fiduciary-data-mandate|fiduciary data custody]] held by WMC and platform services delivered by PointSav.
+Woodfine Capital Projects Inc. is the federally incorporated Canadian parent company holding two wholly-owned subsidiaries: PointSav Digital Systems and MCorp. The three entities occupy distinct roles — ownership, technology, and commercial operations — that do not overlap. The arrangement implements the [[topic-vendor-customer-model|vendor-customer model]] at the corporate level and underpins the [[topic-direct-hold-framework|Direct-Hold framework]] under which WMC operates, with [[topic-fiduciary-data-mandate|fiduciary data custody]] held by WMC and platform services delivered by PointSav.
 
 ## Key takeaways
 
@@ -29,7 +29,7 @@ Woodfine Capital Projects Inc. is the Ontario parent company holding two wholly-
 
 ## Parent entity
 
-Woodfine Capital Projects Inc. is incorporated in Ontario, Canada. It is the 100% owner of both subsidiaries and provides the governance framework within which each operates. The parent entity does not itself manage real estate assets or develop technology products. Its function is structural: it holds the ownership relationship and sets the policy framework that governs the two operating entities below it.
+Woodfine Capital Projects Inc. is incorporated under the Canada Business Corporations Act (CBCA), with its registered office in British Columbia. It is the 100% owner of both subsidiaries and provides the governance framework within which each operates. The parent entity does not itself manage real estate assets or develop technology products. Its function is structural: it holds the ownership relationship and sets the policy framework that governs the two operating entities below it.
 
 ## Technology vendor
 
@@ -39,7 +39,7 @@ PointSav does not hold equity in any managed property. PointSav does not make in
 
 ## Commercial operator
 
-MCorp (Woodfine Management Corp.) is a wholly-owned subsidiary of Woodfine Capital Projects Inc. WMC manages investor relations, originates and governs the direct-hold limited partnerships through which commercial assets are held, and operates the property ledger as fiduciary data custodian. Legal title to assets is maintained within the respective direct-hold limited partnership established for each property; WMC holds interests in those partnerships as part of the management structure and acts as the investor-facing entity for the Direct-Hold programme.
+MCorp (Woodfine Management Corp.) is a wholly-owned subsidiary of Woodfine Capital Projects Inc. WMC manages investor relations, originates and governs the direct-hold limited partnerships through which commercial assets are held, and operates the property ledger as fiduciary data custodian. Legal title to each property is held by a separate WCP Titleco nominee company that is beneficially owned by the applicable direct-hold limited partnership; WMC holds interests in those partnerships as part of the management structure and acts as the investor-facing entity for the Direct-Hold programme.
 
 WMC is the entity with which investors transact. It is responsible for asset governance, investor communications, and the accuracy of property ledger records.
 

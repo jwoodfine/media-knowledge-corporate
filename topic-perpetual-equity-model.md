@@ -20,7 +20,7 @@ see_also:
   - topic-direct-hold-framework
 ---
 
-The Perpetual Equity Model describes the investment framework applied to fractional [[topic-investment-units|investment units]] in named real assets. Under this model, equity is held indefinitely without a fixed redemption horizon, maturity date, or mandatory exit event.
+The Perpetual Equity Model describes the investment framework applied to [[topic-investment-units|investment units]] in named real assets. Under this model, equity is held indefinitely without a fixed redemption horizon, maturity date, or mandatory exit event.
 
 Positions are transferred through the secondary market rather than redeemed by the issuing entity. This structure eliminates redemption queues and liquidity reserves while allowing equity to compound over an indefinite holding period. See [[topic-redemption-elimination|Redemption Elimination]] for the structural rationale.
 
@@ -38,7 +38,7 @@ Transfer mechanics are straightforward: the seller identifies a counterparty, ag
 
 ## Distribution Policy
 
-Distributions are declared per asset, not across the portfolio. The issuing entity declares distributions from operating income when the asset's interest coverage ratio (ICR) stands at or above 1.2×. A distribution is not declared from an asset below the 1.2× ICR floor; the floor is a self-imposed operating constraint calibrated to the 1.2–1.4× range consistent with typical commercial real-estate lending covenants.
+Distributions are declared per asset, not across the portfolio. The issuing entity declares distributions from operating income when the asset's interest coverage ratio (ICR) stands at or above 1.2×. A distribution is not declared from an asset below the 1.2× ICR floor; the floor is a covenant established in the applicable direct-hold vehicle's governing agreement that governs borrowing capacity, consistent with the 1.2–1.4× range typical of commercial real-estate lending.
 
 When distributions are declared, they are paid proportionally across all outstanding units of the relevant asset. No unit within the same asset carries a preferential distribution right over another.
 

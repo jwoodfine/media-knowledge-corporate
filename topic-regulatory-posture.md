@@ -4,7 +4,7 @@ title: "Regulatory Posture"
 slug: topic-regulatory-posture
 aliases:
   - topic-regulatory-posture
-short_description: "Woodfine Capital Projects Inc. operates under the continuous-disclosure regime of NI 51-102 and OSC Staff Notice 51-721; all public materials are reviewable under this regime."
+short_description: "Woodfine Capital Projects Inc. applies a continuous-disclosure posture aligned with NI 51-102 and OSC Staff Notice 51-721 in advance of its planned prospectus offering; all public materials are treated as reviewable under this regime."
 category: company
 type: reference
 content_type: topic
@@ -19,7 +19,7 @@ paired_with: topic-regulatory-posture.es.md
 cites: []
 ---
 
-Woodfine Capital Projects Inc. and its subsidiaries — including the entities described in the [[topic-corporate-structure|corporate structure]] — operate within Ontario's securities regulatory framework. Materials published at corporate.woodfinegroup.com are treated as publicly available disclosure and are reviewable under the [[topic-continuous-disclosure|continuous-disclosure obligations]] of National Instrument 51-102 and OSC Staff Notice 51-721. The regime covers asset acquisitions placed under the [[topic-direct-hold-framework|Direct-Hold framework]] and the [[topic-fiduciary-data-mandate|fiduciary data]] held by WMC as custodian.
+Woodfine Capital Projects Inc. and its subsidiaries — including the entities described in the [[topic-corporate-structure|corporate structure]] — apply a continuous-disclosure posture aligned with the Canadian securities regulatory framework in advance of their respective planned prospectus offerings. Materials published at corporate.woodfinegroup.com are treated as publicly available disclosure and are reviewable under the [[topic-continuous-disclosure|continuous-disclosure obligations]] of National Instrument 51-102 and OSC Staff Notice 51-721. The regime covers asset acquisitions placed under the [[topic-direct-hold-framework|Direct-Hold framework]] and the [[topic-fiduciary-data-mandate|fiduciary data]] held by WMC as custodian.
 
 ## Key takeaways
 
@@ -29,7 +29,7 @@ Woodfine Capital Projects Inc. and its subsidiaries — including the entities d
 
 ## Applicable framework
 
-National Instrument 51-102 (Continuous Disclosure Obligations) establishes the reporting regime for Ontario-based reporting issuers. The instrument governs annual information forms, management discussion and analysis filings, material change reports, and the periodic financial statement requirements applicable to Woodfine Capital Projects Inc. and MCorp
+National Instrument 51-102 (Continuous Disclosure Obligations) establishes the reporting regime for Canadian reporting issuers. The instrument governs annual information forms, management discussion and analysis filings, material change reports, and the periodic financial statement requirements that Woodfine Capital Projects Inc. and MCorp intend to become subject to upon effectiveness of their respective planned prospectus offerings.
 
 OSC Staff Notice 51-721 (Electronic Delivery of Documents) applies to electronically filed and electronically delivered disclosure documents. All required filings are submitted through SEDAR+.
 
@@ -51,7 +51,7 @@ The articles published at corporate.woodfinegroup.com are written and edited to 
 
 ## The bottom line
 
-Woodfine Capital Projects Inc. operates under a continuous-disclosure regime as though all public-facing materials are filed documents. A material fact published on the corporate wiki without a corresponding SEDAR+ filing creates disclosure inconsistency; authors apply the material-change test before publication. Forward-looking language is applied throughout as a factual discipline, not as legal boilerplate, and any reference to the Sovereign Data Foundation uses planned or intended terms because the Foundation is not yet in place.
+Woodfine Capital Projects Inc. applies a continuous-disclosure posture — treating all public-facing materials as though they were filed documents — in advance of its planned prospectus offering. A material fact published on the corporate wiki without a corresponding SEDAR+ filing creates disclosure inconsistency; authors apply the material-change test before publication. Forward-looking language is applied throughout as a factual discipline, not as legal boilerplate, and any reference to the Sovereign Data Foundation uses planned or intended terms because the Foundation is not yet in place.
 
 ## See also
 

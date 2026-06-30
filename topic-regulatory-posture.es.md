@@ -4,7 +4,7 @@ title: "Postura Regulatoria"
 slug: topic-regulatory-posture
 aliases:
   - topic-regulatory-posture
-short_description: "Woodfine Capital Projects Inc. opera bajo el régimen de divulgación continua del NI 51-102 y el Aviso del Personal de la OSC 51-721; todos los materiales públicos son revisables bajo este régimen."
+short_description: "Woodfine Capital Projects Inc. aplica una postura de divulgación continua alineada con el NI 51-102 y el Aviso del Personal de la OSC 51-721 con carácter previo a su oferta pública planificada; todos los materiales públicos se tratan como revisables bajo este régimen."
 category: company
 type: reference
 content_type: topic
@@ -19,11 +19,11 @@ paired_with: topic-regulatory-posture.md
 cites: []
 ---
 
-Woodfine Capital Projects Inc. y sus subsidiarias — incluidas las entidades descritas en la [[topic-corporate-structure|estructura corporativa]] — operan dentro del marco regulatorio de valores de Ontario. Los materiales publicados en corporate.woodfinegroup.com se tratan como divulgación públicamente disponible y son revisables en virtud de las [[topic-continuous-disclosure|obligaciones de divulgación continua]] del Instrumento Nacional 51-102 y el Aviso del Personal de la OSC 51-721. El régimen cubre las adquisiciones de activos colocadas bajo el [[topic-direct-hold-framework|Marco de Tenencia Directa]] y los [[topic-fiduciary-data-mandate|datos fiduciarios]] mantenidos por WMC como custodio.
+Woodfine Capital Projects Inc. y sus subsidiarias — incluidas las entidades descritas en la [[topic-corporate-structure|estructura corporativa]] — aplican una postura de divulgación continua alineada con el marco regulatorio de valores canadiense con carácter previo a sus respectivas ofertas públicas planificadas. Los materiales publicados en corporate.woodfinegroup.com se tratan como divulgación públicamente disponible y son revisables en virtud de las [[topic-continuous-disclosure|obligaciones de divulgación continua]] del Instrumento Nacional 51-102 y el Aviso del Personal de la OSC 51-721. El régimen cubre las adquisiciones de activos colocadas bajo el [[topic-direct-hold-framework|Marco de Tenencia Directa]] y los [[topic-fiduciary-data-mandate|datos fiduciarios]] mantenidos por WMC como custodio.
 
 ## Marco aplicable
 
-El Instrumento Nacional 51-102 (Obligaciones de Divulgación Continua) establece el régimen de reporte para los emisores reportantes con domicilio en Ontario. El instrumento rige los formularios de información anual, los informes de análisis y discusión de la administración, los informes de cambios materiales y los requisitos de estados financieros periódicos aplicables a Woodfine Capital Projects Inc. y MCorp
+El Instrumento Nacional 51-102 (Obligaciones de Divulgación Continua) establece el régimen de reporte para los emisores reportantes en Canadá. El instrumento rige los formularios de información anual, los informes de análisis y discusión de la administración, los informes de cambios materiales y los requisitos de estados financieros periódicos; Woodfine Capital Projects Inc. y MCorp tienen previsto quedar sujetos a dichos requisitos al perfeccionarse sus respectivas ofertas públicas planificadas.
 
 El Aviso del Personal de la OSC 51-721 (Entrega Electrónica de Documentos) se aplica a los documentos de divulgación presentados y entregados electrónicamente. Todos los depósitos requeridos se realizan a través de SEDAR+.
 
