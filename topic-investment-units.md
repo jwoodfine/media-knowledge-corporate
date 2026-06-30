@@ -8,7 +8,7 @@ content_type: topic
 status: active
 quality: complete
 language_protocol: PROSE-TOPIC
-short_description: "The fractional equity units issued in each named real asset under the Direct-Hold framework."
+short_description: "The equity units issued by each direct-hold vehicle in MCorp's Direct-Hold framework."
 paired_with: topic-investment-units.es.md
 audience: public
 bcsc_class: public-disclosure-safe
@@ -20,7 +20,7 @@ see_also:
   - topic-property-ledger-technology
 ---
 
-Investment units are the limited partnership units issued under each direct-hold limited partnership within MCorp's [[topic-direct-hold-framework|Direct-Hold]] framework. Each investment unit represents a proportional interest in the specific direct-hold partnership — not a share in a pooled fund or a proportional claim on a portfolio of properties.
+Investment units are the equity units issued by each direct-hold vehicle within MCorp's [[topic-direct-hold-framework|Direct-Hold]] framework. Each investment unit represents a proportional interest in the specific direct-hold vehicle — not a share in a pooled fund or a proportional claim on a portfolio of properties.
 
 Units are registered through the partnership's book-entry system and are transferable to willing counterparties subject to the restrictions set out in the applicable partnership agreement. The [[topic-perpetual-equity-model|Perpetual Equity Model]] governs the holding horizon for these units.
 

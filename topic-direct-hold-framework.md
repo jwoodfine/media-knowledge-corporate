@@ -4,7 +4,7 @@ title: "Direct-Hold Framework"
 slug: topic-direct-hold-framework
 aliases:
   - topic-direct-hold-framework
-short_description: "A legal structure that issues limited partnership units in a single named direct-hold structure, not a share in a commingled pool, eliminating cross-asset contagion."
+short_description: "A legal structure that issues equity units in a single named direct-hold vehicle, not a share in a commingled pool, eliminating cross-asset contagion."
 category: governance
 type: reference
 content_type: topic
@@ -19,15 +19,15 @@ paired_with: topic-direct-hold-framework.es.md
 cites: []
 ---
 
-The Direct-Hold framework is a legal ownership structure under which each investor holds limited partnership units in a single named direct-hold limited partnership rather than a proportional claim on a commingled pool. Each direct-hold structure is constituted as an independent legal and financial unit, so a financial event affecting one cannot propagate to an investor's equity position in another. This article describes the framework's legal structure, the isolation mechanism, [[topic-equity-transfer-model|transfer and liquidity terms]] between investors, the [[topic-fiduciary-data-mandate|fiduciary data obligations]] that protect ledger integrity, and the [[topic-interest-coverage-ratio|interest coverage discipline]] applied per structure.
+The Direct-Hold framework is a legal ownership structure under which each investor holds equity units in a single named direct-hold vehicle rather than a proportional claim on a commingled pool. Each direct-hold structure is constituted as an independent legal and financial unit, so a financial event affecting one cannot propagate to an investor's equity position in another. This article describes the framework's legal structure, the isolation mechanism, [[topic-equity-transfer-model|transfer and liquidity terms]] between investors, the [[topic-fiduciary-data-mandate|fiduciary data obligations]] that protect ledger integrity, and the [[topic-interest-coverage-ratio|interest coverage discipline]] applied per structure.
 
-The framework issues structure-specific equity: each investor holds limited partnership units in a single named direct-hold partnership, not a share in a commingled fund.
+The framework issues structure-specific equity: each investor holds equity units in a single named direct-hold vehicle, not a share in a commingled fund.
 
 Each asset is its own legal and financial unit, isolated as an independent vehicle. A financial event affecting one asset cannot propagate to an investor's equity in another; the isolation is a property of the architecture, not a contractual promise.
 
 ## Key takeaways
 
-- Each investor holds limited partnership units in a single named direct-hold limited partnership rather than a proportional claim on a commingled pool.
+- Each investor holds equity units in a single named direct-hold vehicle rather than a proportional claim on a commingled pool.
 - Because each asset is constituted as an independent legal and financial unit, a financial event affecting one asset cannot propagate to an investor's equity in another.
 - Equity transfers execute directly between private parties, so there is no redemption queue and no asset is sold under pressure to fund another investor's exit.
 
@@ -51,7 +51,7 @@ An investor who wishes to exit locates a willing counterparty directly; the ente
 
 ## Governance
 
-Because each investor holds direct equity in a named asset, governance rights attach to that specific property. Investor consent mechanisms operate at the asset level, not at a portfolio-aggregation level. The [[topic-perpetual-equity-model|perpetual equity model]] applies these mechanisms to fractional [[topic-investment-units|investment units]] held without a fixed redemption horizon.
+Because each investor holds direct equity in a named asset, governance rights attach to that specific property. Investor consent mechanisms operate at the asset level, not at a portfolio-aggregation level. The [[topic-perpetual-equity-model|perpetual equity model]] applies these mechanisms to [[topic-investment-units|investment units]] held without a fixed redemption horizon.
 
 ## See also
 

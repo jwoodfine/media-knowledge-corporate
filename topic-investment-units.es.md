@@ -8,7 +8,7 @@ content_type: topic
 status: active
 quality: complete
 language_protocol: TRANSLATE-ES
-short_description: "Las unidades de capital fraccional emitidas en cada activo real nombrado bajo el marco de Tenencia Directa."
+short_description: "Las participaciones emitidas por cada vehículo de tenencia directa dentro del marco de Tenencia Directa de MCorp."
 paired_with: topic-investment-units.md
 audience: public
 bcsc_class: public-disclosure-safe
@@ -20,9 +20,9 @@ see_also:
   - topic-property-ledger-technology
 ---
 
-Las unidades de inversión son las unidades de sociedad limitada emitidas bajo cada sociedad limitada de tenencia directa dentro del marco de [[topic-direct-hold-framework|Tenencia Directa]] de MCorp. Cada unidad de inversión representa un interés proporcional en la sociedad limitada de tenencia directa específica, no una participación en un fondo mancomunado ni una participación proporcional en una cartera de propiedades.
+Las unidades de inversión son las participaciones emitidas por cada vehículo de tenencia directa dentro del marco de [[topic-direct-hold-framework|Tenencia Directa]] de MCorp. Cada unidad de inversión representa un interés proporcional en el vehículo de tenencia directa específico, no una participación en un fondo mancomunado ni una participación proporcional en una cartera de propiedades.
 
-Las unidades se registran a través del sistema de registro en cuenta de la sociedad y son transferibles a contrapartes dispuestas conforme a las restricciones establecidas en el contrato de sociedad limitada correspondiente. El [[topic-perpetual-equity-model|Modelo de Capital Perpetuo]] rige el horizonte de tenencia de estas unidades.
+Las unidades se registran a través del sistema de registro en cuenta del vehículo emisor y son transferibles a contrapartes dispuestas conforme a las restricciones establecidas en el acuerdo rector del vehículo correspondiente. El [[topic-perpetual-equity-model|Modelo de Capital Perpetuo]] rige el horizonte de tenencia de estas unidades.
 
 ## Resumen
 
@@ -46,7 +46,7 @@ Cada unidad de inversión en un activo nombrado confiere tres categorías de der
 
 ## Ratio de cobertura de intereses
 
-Cada estructura de tenencia directa mantiene un suelo de ratio de cobertura de intereses (RCI) de 1,2× — ingresos operativos netos respecto a las obligaciones de intereses (excluida la amortización del capital) — como convenio establecido en el contrato de sociedad limitada aplicable que regula la capacidad de endeudamiento. El RCI se calcula por activo; no existe subvención cruzada entre propiedades. Un activo que opera entre 1,2× y 1,4× RCI se encuentra en el rango típico de los convenios de préstamo inmobiliario comercial. Un activo por debajo de 1,2× entra en un protocolo de preservación en el que se suspenden las distribuciones hasta que se restablece el ratio.
+Cada estructura de tenencia directa mantiene un suelo de ratio de cobertura de intereses (RCI) de 1,2× — ingresos operativos netos respecto a las obligaciones de intereses (excluida la amortización del capital) — como convenio establecido en el acuerdo rector del vehículo de tenencia directa aplicable que regula la capacidad de endeudamiento. El RCI se calcula por activo; no existe subvención cruzada entre propiedades. Un activo que opera entre 1,2× y 1,4× RCI se encuentra en el rango típico de los convenios de préstamo inmobiliario comercial. Un activo por debajo de 1,2× entra en un protocolo de preservación en el que se suspenden las distribuciones hasta que se restablece el ratio.
 
 El suelo del RCI protege directamente a los tenedores de unidades: impide que se realicen distribuciones de una propiedad cuyos ingresos operativos sean insuficientes para sostenerlas. No se declara ninguna distribución de un activo cuyo RCI sea inferior a 1,2×.
 
