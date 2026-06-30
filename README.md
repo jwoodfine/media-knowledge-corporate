@@ -46,7 +46,7 @@ Woodfine Capital Projects Inc. is the parent company. MCorp is the Principal Man
 
 Each Direct-Hold Solution has its own Independent Oversight Committee. There is no global committee. This is intentional: each jurisdiction's fiduciary obligations are distinct, and a single global body creates the same structural conflation that fund structures create.
 
-The four active jurisdictional vehicles:
+The four active Direct-Hold Solutions:
 
 | Entity | Jurisdiction | Designation |
 |:---|:---|:---|

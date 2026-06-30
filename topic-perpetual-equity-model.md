@@ -38,7 +38,7 @@ Transfer mechanics are straightforward: the seller identifies a counterparty, ag
 
 ## Distribution Policy
 
-Distributions are declared per asset, not across the portfolio. The issuing entity declares distributions from operating income when the asset's interest coverage ratio (ICR) stands at or above 1.2×. A distribution is not declared from an asset below the 1.2× ICR floor; the floor is a covenant established in the applicable direct-hold vehicle's governing agreement that governs borrowing capacity, consistent with the 1.2–1.4× range typical of commercial real-estate lending.
+Distributions are declared per asset, not across the portfolio. The issuing entity declares distributions from operating income when the asset's interest coverage ratio (ICR) stands at or above 1.2×. A distribution is not declared from an asset below the 1.2× ICR floor; the floor is a covenant established in the applicable Direct-Hold Solution's governing agreement that governs borrowing capacity, consistent with the 1.2–1.4× range typical of commercial real-estate lending.
 
 When distributions are declared, they are paid proportionally across all outstanding units of the relevant asset. No unit within the same asset carries a preferential distribution right over another.
 

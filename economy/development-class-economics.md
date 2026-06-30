@@ -47,7 +47,7 @@ single-tenant lease rollover risk.
 
 Professional Centre tenants typically operate on longer lease terms (five to ten years) than
 retail tenants, reflecting the capital investment required to fit out a medical or professional
-services suite and the disruptive cost of relocation. This lease term structure provides
+services suite and the substantial cost of relocation. This lease term structure provides
 income stability at the expense of flexibility to reset rents at market rates between tenancy
 cycles.
 
