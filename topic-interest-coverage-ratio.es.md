@@ -19,11 +19,11 @@ short_description: "Indicador de servicio de deuda que exige que los ingresos op
 cites: []
 ---
 
-Un ratio mínimo de cobertura de intereses de 1,2x limita cada activo de [[topic-direct-hold-framework|Tenencia Directa]] de Woodfine — no puede emitirse nueva deuda que reduzca la cobertura de ingresos operativos sobre intereses por debajo de este umbral. La restricción es autoimpuesta por la entidad corporativa como disciplina fiduciaria; ningún convenio de prestamista externo lo exige. Opera junto con el [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] y el [[topic-equity-transfer-model|Modelo de Transferencia de Capital]] como el tercer compromiso estructural aplicado por activo.
+Un ratio mínimo de cobertura de intereses de 1,2× limita cada activo de [[topic-direct-hold-framework|Tenencia Directa]] de Woodfine — no puede emitirse nueva deuda que reduzca la cobertura de ingresos operativos sobre intereses por debajo de este umbral. La restricción está establecida en el contrato de sociedad limitada que rige cada solución de tenencia directa; se aplica a la emisión de debentures garantizados con primera hipoteca y regula la capacidad de endeudamiento de la sociedad. Opera junto con el [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] y el [[topic-equity-transfer-model|Modelo de Transferencia de Capital]] como el tercer compromiso estructural aplicado por activo.
 
 ## Qué mide la ratio
 
-El ICR es la ratio entre las ganancias antes de intereses e impuestos (EBIT) y las obligaciones de intereses totales. Un ICR de 1,2 significa que la cartera genera 1,2 dólares de ingreso operativo por cada dólar de intereses adeudados. En exactamente 1,0, los ingresos cubren los intereses exactamente. Por debajo de 1,0, la cartera no puede servir su deuda con ingresos operativos sin recurrir a reservas de capital.
+El ICR es la ratio entre los ingresos operativos netos (NOI) y las obligaciones de intereses totales, donde las obligaciones de intereses excluyen el reembolso del capital principal. Un ICR de 1,2 significa que el activo genera 1,2 dólares de ingresos operativos netos por cada dólar de intereses adeudados. En exactamente 1,0, los ingresos cubren los intereses exactamente. Por debajo de 1,0, el activo no puede servir su deuda con ingresos operativos sin recurrir a reservas de capital.
 
 El piso de 1,2 proporciona un margen operativo del 20%. Un aumento en la tasa de vacancia, un pico de gastos de mantenimiento, o una interrupción a corto plazo de un inquilino pueden reducir los ingresos sin incumplir la obligación de intereses.
 

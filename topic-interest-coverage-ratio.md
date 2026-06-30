@@ -19,17 +19,17 @@ paired_with: topic-interest-coverage-ratio.es.md
 cites: []
 ---
 
-A minimum 1.2x interest coverage ratio constrains every Woodfine [[topic-direct-hold-framework|Direct-Hold]] asset — no new debt may be issued that would reduce operating-income-to-interest coverage below this floor. The constraint is self-imposed by the corporate entity as a fiduciary discipline; no external lender covenant requires it. It operates alongside the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] and the [[topic-equity-transfer-model|Equity Transfer Model]] as the third structural commitment applied per asset.
+A minimum 1.2× interest coverage ratio constrains every Woodfine [[topic-direct-hold-framework|Direct-Hold]] asset — no new debt may be issued that would reduce operating-income-to-interest coverage below this floor. The constraint is established in the limited partnership agreement governing each direct-hold solution; it applies to the issuance of secured debentures and governs the borrowing capacity of the partnership. It operates alongside the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] and the [[topic-equity-transfer-model|Equity Transfer Model]] as the third structural commitment applied per asset.
 
 ## Key takeaways
 
-- Every Direct-Hold asset must maintain operating income covering interest by at least 1.2×, blocking any new debt that would push coverage below this floor.
-- The 1.2 threshold is self-imposed corporate discipline rather than an external lender covenant, giving a 20% operating buffer against vacancy, maintenance spikes, or short-term tenant disruption.
+- Every Direct-Hold asset must maintain net operating income covering interest by at least 1.2×, blocking any new debt that would push coverage below this floor.
+- The 1.2 threshold is established as a covenant in the limited partnership agreement; it provides a 20% operating buffer against vacancy, maintenance spikes, or short-term tenant disruption.
 - Because the ratio applies per legally isolated asset vehicle, a debt-service shortfall in one asset cannot propagate to others or be masked by cross-subsidy from a stronger asset.
 
 ## What the ratio measures
 
-ICR is the ratio of earnings before interest and taxes (EBIT) to total interest obligations. An ICR of 1.2 means the portfolio generates 1.2 dollars of operating income for every dollar of interest owed. At exactly 1.0, income covers interest exactly. Below 1.0, the portfolio cannot service its debt from operating income without drawing on capital reserves.
+ICR is the ratio of net operating income (NOI) to total interest obligations, where interest obligations exclude principal repayment. An ICR of 1.2 means the asset generates 1.2 dollars of net operating income for every dollar of interest owed. At exactly 1.0, income covers interest exactly. Below 1.0, the asset cannot service its debt from operating income without drawing on capital reserves.
 
 The 1.2 floor provides a 20% operating buffer. A vacancy rate increase, a maintenance expense spike, or a short-term tenant disruption can reduce income without breaching the interest obligation.
 

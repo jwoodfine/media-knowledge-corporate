@@ -23,7 +23,7 @@ Woodfine Capital Projects Inc. is the Ontario parent company holding two wholly-
 
 ## Key takeaways
 
-- Three entities occupy non-overlapping roles: Woodfine Capital Projects Inc. provides governance and ownership; PointSav Digital Systems delivers technology services; MCorp holds assets, manages investors, and files continuous-disclosure documents.
+- Three entities occupy non-overlapping roles: Woodfine Capital Projects Inc. provides governance and ownership; PointSav Digital Systems delivers technology services; MCorp manages investor relations, originates and governs direct-hold limited partnerships, and operates as fiduciary data custodian.
 - PointSav cannot make investment decisions and does not hold equity in managed properties; WMC cannot modify platform code — the separation is enforced at the corporate boundary, not by contract alone.
 - The design intent is that an operational failure at PointSav does not impair WMC's fiduciary function, and a financial event at WMC does not impair PointSav's platform operations.
 
@@ -39,7 +39,7 @@ PointSav does not hold equity in any managed property. PointSav does not make in
 
 ## Commercial operator
 
-MCorp (Woodfine Management Corp.) is a wholly-owned subsidiary of Woodfine Capital Projects Inc. WMC holds legal title to commercial assets under the Direct-Hold framework. It manages investor relations, executes asset acquisitions, operates the property ledger as fiduciary data custodian, and files [[topic-continuous-disclosure|continuous-disclosure]] documents with the Ontario Securities Commission under NI 51-102.
+MCorp (Woodfine Management Corp.) is a wholly-owned subsidiary of Woodfine Capital Projects Inc. WMC manages investor relations, originates and governs the direct-hold limited partnerships through which commercial assets are held, and operates the property ledger as fiduciary data custodian. Legal title to assets is maintained within the respective direct-hold limited partnership established for each property; WMC holds interests in those partnerships as part of the management structure and acts as the investor-facing entity for the Direct-Hold programme.
 
 WMC is the entity with which investors transact. It is responsible for asset governance, investor communications, and the accuracy of property ledger records.
 

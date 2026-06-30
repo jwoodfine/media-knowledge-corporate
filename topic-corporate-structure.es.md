@@ -33,7 +33,7 @@ PointSav no posee participaciones en ninguna propiedad gestionada. PointSav no t
 
 ## Operador comercial
 
-MCorp (Woodfine Management Corp.) es una subsidiaria de propiedad absoluta de Woodfine Capital Projects Inc. WMC ostenta la titularidad legal de los activos comerciales bajo el modelo de Tenencia Directa. Gestiona las relaciones con inversores, ejecuta adquisiciones de activos, opera el registro de propiedades en su calidad de custodio fiduciario de datos y presenta documentos de [[topic-continuous-disclosure|divulgación continua]] ante la Comisión de Valores de Ontario (OSC) en virtud del NI 51-102.
+MCorp (Woodfine Management Corp.) es una subsidiaria de propiedad absoluta de Woodfine Capital Projects Inc. WMC gestiona las relaciones con inversores, origina y rige las sociedades limitadas de tenencia directa a través de las cuales se mantienen los activos comerciales, y opera el registro de propiedades en su calidad de custodio fiduciario de datos. La titularidad legal de los activos se mantiene dentro de la respectiva sociedad limitada de tenencia directa establecida para cada propiedad; WMC ostenta participaciones en dichas sociedades como parte de la estructura de gestión y actúa como entidad de cara al inversor dentro del programa de Tenencia Directa.
 
 WMC es la entidad con la que transaccionan los inversores. Es responsable de la gobernanza de activos, las comunicaciones con inversores y la exactitud de los registros del libro de propiedades.
 
